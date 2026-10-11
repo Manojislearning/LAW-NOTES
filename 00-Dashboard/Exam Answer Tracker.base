@@ -1,0 +1,14 @@
+filters:
+  and:
+    - type == "topic"
+views:
+  - type: table
+    name: Exam answer tracker
+    order:
+      - file.name
+      - semester
+      - subject
+      - unit
+      - status
+      - verification
+      - next_review

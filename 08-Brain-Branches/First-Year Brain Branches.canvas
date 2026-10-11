@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"subject","type":"file","file":"01-Semester-1/Law-of-Torts/00 - Law of Torts.md","x":0,"y":0,"width":350,"height":230},
+		{"id":"unit","type":"file","file":"01-Semester-1/Law-of-Torts/Unit-03 - Negligence and strict liability.md","x":470,"y":0,"width":360,"height":230},
+		{"id":"negligence","type":"file","file":"01-Semester-1/Law-of-Torts/Topics/Negligence - Duty Breach Causation.md","x":970,"y":0,"width":400,"height":300},
+		{"id":"case","type":"file","file":"03-Case-Law/Donoghue v Stevenson - 1932.md","x":1510,"y":0,"width":380,"height":300},
+		{"id":"contract","type":"file","file":"01-Semester-1/Contract-I/Topics/Essentials of a Valid Contract.md","x":970,"y":430,"width":400,"height":280},
+		{"id":"exam","type":"file","file":"04-Exam-Answers/Answer Writing Method.md","x":1510,"y":430,"width":380,"height":280},
+		{"id":"constitution","type":"file","file":"01-Semester-1/Constitutional-Law-I/Topics/Article 14 - Equality before Law.md","x":970,"y":-480,"width":400,"height":280}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"subject","fromSide":"right","toNode":"unit","toSide":"left"},
+		{"id":"e2","fromNode":"unit","fromSide":"right","toNode":"negligence","toSide":"left"},
+		{"id":"e3","fromNode":"negligence","fromSide":"right","toNode":"case","toSide":"left"},
+		{"id":"e4","fromNode":"negligence","fromSide":"bottom","toNode":"contract","toSide":"top"},
+		{"id":"e5","fromNode":"negligence","fromSide":"top","toNode":"constitution","toSide":"bottom"},
+		{"id":"e6","fromNode":"contract","fromSide":"right","toNode":"exam","toSide":"left"}
+	]
+}
