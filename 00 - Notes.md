@@ -24,6 +24,8 @@ tags: [law-notes]
 
 ## Maps & Reading
 
+- [[08-Brain-Branches/MindBranches Obsidian Plugin Guide|MindBranches — interactive branch view for notes, units, subjects and semesters]]
+
 - [Topic Brain Branches — Zoomable SVG](https://manojislearning.github.io/law-learning/reader/?map=1)
 
 - [[08-Brain-Branches/Notes-Maps/00 - Semester I Master.canvas|Brain Map]]
