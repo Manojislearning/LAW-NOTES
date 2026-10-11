@@ -1,0 +1,586 @@
+{
+  "source": {
+    "filename": "KSLU LL.B Syllabus Updated one(1).pdf",
+    "pages": 13,
+    "documentHeading": "3yrs LL. B. Program for the year 2018-19",
+    "semester": "I Semester",
+    "note": "The supplied document carries a 2018-19 header but includes Bharatiya Nyaya Sanhita, 2023. Treat this as the user's supplied mixed-date syllabus, not a verified current university circular.",
+    "createdFrom": "user-supplied PDF; original PDF not copied into repository"
+  },
+  "subjects": [
+    {
+      "slug": "Constitutional-Law-I",
+      "title": "Constitutional Law – I",
+      "course": "I",
+      "pages": [
+        1,
+        2
+      ],
+      "objective": "Normative character and aspirations of the Indian Constitution; constitutional supremacy, rule of law, liberty, fundamental rights and directive principles.",
+      "units": [
+        {
+          "title": "Constitution, Preamble and citizenship",
+          "page": 1,
+          "topics": [
+            "Meaning and definition of Constitution",
+            "Kinds of Constitution",
+            "Constitutionalism",
+            "Salient features of the Indian Constitution",
+            "Preamble: meaning, scope and importance",
+            "Preamble: objectives and values",
+            "Citizenship: acquisition and termination"
+          ]
+        },
+        {
+          "title": "State, law, judicial review and equality",
+          "page": 1,
+          "topics": [
+            "State under Article 12",
+            "Judicial trends in State action and expanding its definition",
+            "Definition and meaning of law",
+            "Pre-Constitutional and post-Constitutional laws",
+            "Doctrine of severability",
+            "Doctrine of eclipse",
+            "Judicial review and Article 13",
+            "General equality clause under Article 14",
+            "New concept and judicial interpretation of equality"
+          ]
+        },
+        {
+          "title": "Protective discrimination and freedom",
+          "page": 1,
+          "topics": [
+            "Protective discrimination and social justice under Articles 15 and 16",
+            "New judicial trends on social justice",
+            "Untouchability under Article 17",
+            "Freedom of speech and expression",
+            "Freedom of assembly and association",
+            "Freedom of movement and residence",
+            "Freedom of profession, occupation, trade or business",
+            "Reasonable restrictions on freedoms"
+          ]
+        },
+        {
+          "title": "Rights of accused, life, exploitation and religion",
+          "page": 2,
+          "topics": [
+            "Article 20: ex-post facto laws",
+            "Article 20: double jeopardy",
+            "Article 20: right against self-incrimination",
+            "Article 22: rights of arrested persons",
+            "Article 22: preventive detention laws",
+            "Article 21: life and personal liberty",
+            "Various facets of life and liberty",
+            "Right against exploitation",
+            "Secularism and freedom of religion",
+            "Judicial interpretation and restrictions on religious freedom"
+          ]
+        },
+        {
+          "title": "Minority rights, remedies and constitutional directives",
+          "page": 2,
+          "topics": [
+            "Cultural and educational rights of minorities",
+            "Recent trends in minority rights",
+            "Article 32: constitutional remedies",
+            "Article 226: constitutional remedies",
+            "Kinds of writs",
+            "Right to property before 1978 and present position",
+            "Directive Principles of State Policy",
+            "Fundamental Duties",
+            "Relationship between Fundamental Rights and Directive Principles"
+          ]
+        }
+      ],
+      "prescribedBooks": [
+        "Dr. V. N. Shukla – Constitution of India",
+        "M. P. Jain – Indian Constitutional Law"
+      ],
+      "referenceBooks": [
+        "H. M. Seervai – Constitutional Law of India",
+        "T. K. Tope – Constitutional Law",
+        "D. D. Basu – Shorter Constitution of India",
+        "S. Shiva Rao – Framing of Indian Constitution",
+        "Subhash C. Kashyap – Parliamentary Procedure",
+        "Subhash C. Kashyap – History of Indian Parliament",
+        "R. C. Agarwal – Constitutional Development and National Movement",
+        "A. B. Keith – Constitutional History of India",
+        "D. J. De – The Constitution of India, Vol. I and II"
+      ]
+    },
+    {
+      "slug": "Contract-I",
+      "title": "Contract-I: Law of Contract",
+      "course": "II",
+      "pages": [
+        3,
+        4
+      ],
+      "objective": "Foundation of the general principles of contracts for ordinary transactions and e-commerce.",
+      "units": [
+        {
+          "title": "Formation, offer, acceptance and consideration",
+          "page": 3,
+          "topics": [
+            "Formation of contract: agreement and contract",
+            "Definitions and classification of contracts",
+            "Offer and acceptance",
+            "Communication and revocation",
+            "Essential elements of offer and acceptance",
+            "Invitation to offer",
+            "Tenders",
+            "Consideration and nudum pactum",
+            "Essential elements of consideration",
+            "Privity of contract and of consideration",
+            "Exceptions to privity",
+            "Unlawful consideration and effects",
+            "E-contracts"
+          ]
+        },
+        {
+          "title": "Capacity, free consent and legality",
+          "page": 3,
+          "topics": [
+            "Capacity to contract",
+            "Minor's agreements and effects",
+            "Agreements involving persons of unsound mind",
+            "Persons disqualified by law",
+            "Free consent",
+            "Coercion",
+            "Undue influence",
+            "Misrepresentation",
+            "Fraud",
+            "Mistake",
+            "Legality of object",
+            "Void agreements",
+            "Contingent contracts"
+          ]
+        },
+        {
+          "title": "Performance and discharge of contracts",
+          "page": 3,
+          "topics": [
+            "Modes of discharge of contracts",
+            "Time and place of performance",
+            "Performance of reciprocal promises",
+            "Appropriation of payments",
+            "Discharge by agreement",
+            "Discharge by operation of law",
+            "Frustration and impossibility of performance",
+            "Discharge by breach: anticipatory and actual"
+          ]
+        },
+        {
+          "title": "Breach, damages and quasi-contracts",
+          "page": 3,
+          "topics": [
+            "Remedies for breach of contract",
+            "Damages and kinds of damages",
+            "Remoteness of damages",
+            "Ascertainment of damages",
+            "Quasi-contracts"
+          ]
+        },
+        {
+          "title": "Specific Relief Act and injunctions",
+          "page": 4,
+          "topics": [
+            "Specific Relief Act: sections 9–16, 21, 24 and 36–42 (as printed in syllabus)",
+            "Nature of specific relief",
+            "Recovery of possession of movable and immovable property",
+            "Specific performance: when granted and not granted",
+            "Who may obtain specific performance and against whom",
+            "Discretionary remedy and powers of court (syllabus wording)",
+            "Rectification of instruments",
+            "Cancellation",
+            "Declaratory decrees",
+            "Preventive relief",
+            "Temporary injunctions",
+            "Perpetual and mandatory injunctions"
+          ]
+        }
+      ],
+      "prescribedBooks": [
+        "Avtar Singh, Law of Contract and Specific Relief, 11th ed., Eastern Book Company (2013)"
+      ],
+      "referenceBooks": [
+        "Pollock and Mulla, Indian Contract and Specific Relief Act, 14th ed., LexisNexis (2013)",
+        "Stephen A. Smith and P. S. Atiyah, Atiyah's Introduction to the Law of Contract, 6th ed., Oxford University Press (2006)",
+        "G. C. Cheshire and Fifoot, Law of Contract, 10th ed., LexisNexis (2010)",
+        "William Anson, Law of Contract, 29th ed., Oxford University Press (2010)",
+        "Henry Maine, Ancient Law, 4th ed. (1870)"
+      ]
+    },
+    {
+      "slug": "Law-of-Torts",
+      "title": "Law of Torts",
+      "course": "III",
+      "pages": [
+        5,
+        6
+      ],
+      "objective": "Tortious liability, defences, capacity, specific torts, industrial/mass torts and remedies including those cited under consumer and motor vehicle legislation.",
+      "units": [
+        {
+          "title": "Foundations of the law of torts",
+          "page": 5,
+          "topics": [
+            "Evolution of the law of torts",
+            "Nature, scope and meaning of torts",
+            "Torts distinguished from contract",
+            "Torts distinguished from crime",
+            "Development of ubi jus ibi remedium",
+            "Mental elements: intention",
+            "Motive",
+            "Malice in law and malice in fact"
+          ]
+        },
+        {
+          "title": "General defences and vicarious liability",
+          "page": 5,
+          "topics": [
+            "General defences in tort",
+            "Vicarious liability"
+          ]
+        },
+        {
+          "title": "Negligence, nuisance and liability",
+          "page": 5,
+          "topics": [
+            "Negligence",
+            "Nuisance",
+            "Absolute liability",
+            "Strict liability",
+            "Legal remedies and awards",
+            "Remoteness of damage"
+          ]
+        },
+        {
+          "title": "Torts against person, rights and property",
+          "page": 5,
+          "topics": [
+            "Assault",
+            "Battery",
+            "Mayhem",
+            "False imprisonment",
+            "Libel and slander",
+            "Malicious prosecution",
+            "Malicious civil action",
+            "Abuse of legal process",
+            "Marital rights and parental rights",
+            "Rights to service and contractual rights",
+            "Intimidation and conspiracy",
+            "Torts against property"
+          ]
+        },
+        {
+          "title": "Consumer protection and motor vehicles",
+          "page": 5,
+          "topics": [
+            "Consumer Protection Act, 1986: salient features (as in supplied syllabus)",
+            "Consumer, defect in goods and deficiency in services",
+            "Medical services and consumer remedies",
+            "Consumer disputes redressal agencies",
+            "Limitation for complaints and penalties",
+            "Motor Vehicles Act, 1988: salient features",
+            "Liability without fault in certain cases",
+            "Third-party motor insurance",
+            "Claims Tribunal",
+            "Offences, penalties and procedure"
+          ]
+        }
+      ],
+      "prescribedBooks": [
+        "Ratanlal & Dhirajlal, The Law of Torts, 26th ed., LexisNexis (2013)",
+        "Gurubax Singh, Law of Consumer Protection, Bharat Law Publications (1992)",
+        "W. V. H. Rogers, Winfield and Jolowicz on Tort, 15th ed., Sweet and Maxwell (1999)",
+        "David Howarth and Janet O'Sullivan, Hepple, Howarth and Matthews' Tort: Cases and Materials, 5th ed., LexisNexis (2000)",
+        "Upendra Baxi and Amita Danda, Valiant Victims and Lethal Litigation—The Bhopal Case, Indian Law Institute (1990)",
+        "R. F. V. Heuston and R. A. Buckley, Salmond and Heuston on the Law of Torts, 26th ed., Sweet and Maxwell (1996)",
+        "Avtar Singh, Introduction to the Law of Torts (and Consumer Protection), LexisNexis (2009)",
+        "D. N. Saraf, Law of Consumer Protection in India, N. M. Tripathi (1990)"
+      ],
+      "referenceBooks": [],
+      "bookLabel": "Prescribed Books (all eight listed under this heading in the PDF)"
+    },
+    {
+      "slug": "Family-Law-I---Hindu-Law",
+      "title": "Family Law-I: Hindu Law",
+      "course": "IV",
+      "pages": [
+        7,
+        8
+      ],
+      "objective": "Codified and uncodified Hindu law, sources and schools, marriage, joint family, succession, maintenance, adoption and guardianship.",
+      "units": [
+        {
+          "title": "Dharma, sources and schools",
+          "page": 7,
+          "topics": [
+            "Concept of Dharma",
+            "Ancient sources of Hindu law",
+            "Modern sources of Hindu law",
+            "Importance of Dharma Shastra on legislation",
+            "Mitakshara school of Hindu law",
+            "Dayabhaga school of Hindu law",
+            "Application of Hindu law"
+          ]
+        },
+        {
+          "title": "Marriage and matrimonial remedies",
+          "page": 7,
+          "topics": [
+            "Marriage and kinship",
+            "Evolution of marriage and family",
+            "Law before the Hindu Marriage Act",
+            "Hindu Marriage Act, 1955: detailed study",
+            "Matrimonial remedies",
+            "Maintenance and alimony",
+            "Customary practices relating to dowry",
+            "Legislation relating to dowry prohibition"
+          ]
+        },
+        {
+          "title": "Hindu joint family, property and partition",
+          "page": 7,
+          "topics": [
+            "Hindu undivided family",
+            "Mitakshara joint family: formation and incidents",
+            "Property under both schools",
+            "Kartha: position, powers, privileges and obligations",
+            "Debts",
+            "Doctrine of pious obligation",
+            "Partition and reunion",
+            "Religious and charitable endowment"
+          ]
+        },
+        {
+          "title": "Inheritance, succession and wills",
+          "page": 7,
+          "topics": [
+            "Historical inheritance under Hindu law",
+            "Hindu Succession Act, 1956",
+            "Stridhana and woman's property",
+            "Amendments to Hindu Succession Act",
+            "Gifts and testamentary succession",
+            "Wills"
+          ]
+        },
+        {
+          "title": "Minority, guardianship, adoption and maintenance",
+          "page": 7,
+          "topics": [
+            "Hindu minority and guardianship",
+            "Kinds of guardians",
+            "Duties and powers of guardians",
+            "Hindu Adoptions and Maintenance Act, 1956: detailed study",
+            "Traditional rights to maintenance",
+            "Maintenance rights under Hindu Adoptions and Maintenance Act, 1956"
+          ]
+        }
+      ],
+      "prescribedBooks": [
+        "Paras Diwan, Modern Hindu Law, Allahabad Law Agency (1993)"
+      ],
+      "referenceBooks": [
+        "John D. Mayne, A Treatise on Hindu Law and Usage, 9th ed., Higginbotham (1922)",
+        "Mulla, Principles of Hindu Law, LexisNexis Butterworths (2007)",
+        "Paras Diwan, Law of Adoption, Minority, Guardianship and Custody, Universal (2000)",
+        "J. D. M. Derrett, Hindu Law—Past and Present, A Mukherjee & Co. (1957)",
+        "N. Raghavachariar, Hindu Law"
+      ]
+    },
+    {
+      "slug": "Criminal-Law-I---BNS-2023",
+      "title": "Criminal Law-I: Bharatiya Nyaya Sanhita, 2023",
+      "course": "V",
+      "pages": [
+        9,
+        10
+      ],
+      "objective": "Concepts of crime and criminal responsibility, general principles, offences and the Bharatiya Nyaya Sanhita, 2023.",
+      "units": [
+        {
+          "title": "Principles, interpretation and general exceptions",
+          "page": 9,
+          "topics": [
+            "Conceptions of crime and general principles",
+            "Crime distinguished from morality and other wrongs",
+            "Actus reus and mens rea; related maxims",
+            "Mistake, intoxication, compulsion and legally abnormal person",
+            "Parties to crime and state obligation to detect/punish",
+            "BNS 2023: history, extent and operation",
+            "BNS sections 2–3: definitions and general explanations",
+            "Trends towards gender neutrality",
+            "BNS sections 4–13: punishments, community service, commutation, fine and default",
+            "Solitary confinement",
+            "BNS sections 14–44: general exceptions"
+          ]
+        },
+        {
+          "title": "Inchoate offences and offences against women and children",
+          "page": 9,
+          "topics": [
+            "BNS sections 45–60: abetment including from outside India",
+            "BNS section 61: criminal conspiracy",
+            "BNS section 62: attempt",
+            "BNS sections 63–73: rape and other sexual offences; deceitful means",
+            "BNS sections 74–79: criminal force and assault against women",
+            "BNS section 80: dowry death",
+            "BNS section 82: bigamy",
+            "BNS sections 85–86: cruelty",
+            "BNS section 87: kidnapping",
+            "BNS sections 91–97: offences against children"
+          ]
+        },
+        {
+          "title": "Offences affecting life and human body",
+          "page": 9,
+          "topics": [
+            "Culpable homicide and murder",
+            "Mob lynching and offences affecting life (BNS sections 100–110 as printed)",
+            "Hit and run; death by rash or negligent act",
+            "Suicide-related offences (BNS sections 107–108)",
+            "Organised crimes (BNS sections 111–112)",
+            "Terrorist act (BNS section 113)",
+            "Hurt and grievous hurt (BNS sections 114–125)",
+            "Wrongful restraint and confinement (BNS sections 126–127)",
+            "Criminal force and assault (BNS sections 128–136)",
+            "Kidnapping, abduction, slavery and forced labour (BNS sections 137–146)"
+          ]
+        },
+        {
+          "title": "State, elections, public order and justice",
+          "page": 10,
+          "topics": [
+            "Offences against State (BNS sections 147–158)",
+            "Waging war; sovereignty, unity and integrity of India",
+            "Election, coin and currency offences (BNS sections 168–188 as printed)",
+            "Public tranquillity: unlawful assembly, rioting and affray",
+            "Promoting enmity and prejudicial assertions (BNS sections 189–190 as printed)",
+            "False or fabricated evidence; destruction of evidence; harbouring offender (BNS sections 227–238)",
+            "Public nuisance (BNS sections 270–273)",
+            "Mischief and criminal trespass (BNS sections 324–334)",
+            "Forgery and property marks (BNS sections 335–344)"
+          ]
+        },
+        {
+          "title": "Property offences, intimidation and defamation",
+          "page": 10,
+          "topics": [
+            "Theft and snatching (BNS sections 303–307)",
+            "Extortion (BNS section 308)",
+            "Robbery (BNS sections 309 and 313 as printed)",
+            "Dacoity (BNS sections 310–312)",
+            "Criminal misappropriation (BNS sections 314–315)",
+            "Criminal breach of trust (BNS section 316)",
+            "Receiving stolen property (BNS section 317)",
+            "Cheating (BNS sections 318–319)",
+            "Criminal intimidation, insult, annoyance and defamation (BNS sections 351–356)"
+          ]
+        }
+      ],
+      "prescribedBooks": [
+        "J. W. Cecil Turner, Kenny's Outlines of Criminal Law, Cambridge University Press (latest edition)",
+        "Ratanlal and Dhirajlal, Bharatiya Nyaya Sanhita, LexisNexis (recent edition; changed title)"
+      ],
+      "referenceBooks": [
+        "Bare Act—Bharatiya Nyaya Sanhita, 2023",
+        "K. D. Gaur, Text Book on the Bharatiya Nyaya Sanhita, 2023, Universal/LexisNexis",
+        "K. D. Gaur, Criminal Law: Cases and Materials, LexisNexis",
+        "R. C. Nigam, Law of Crimes in India, Vol. I, Asia Publishing House",
+        "K. I. Vibhute, P. S. Achuthan Pillai's Criminal Law, LexisNexis",
+        "Ratanlal and Dhirajlal, The Indian Penal Code, LexisNexis",
+        "Glanville Williams, Text Book on Criminal Law, Sweet and Maxwell"
+      ]
+    },
+    {
+      "slug": "English-For-Kannada-Medium",
+      "title": "English (for students writing examinations in Kannada)",
+      "course": "VI",
+      "pages": [
+        11,
+        12,
+        13
+      ],
+      "conditional": true,
+      "objective": "Legal English vocabulary, grammar, comprehension, writing, professional documents and translation.",
+      "units": [
+        {
+          "title": "Law and Lawyers by M. K. Gandhi",
+          "page": 11,
+          "topics": [
+            "Law and Lawyers — M. K. Gandhi"
+          ]
+        },
+        {
+          "title": "English grammar and legal vocabulary",
+          "page": 11,
+          "topics": [
+            "Articles",
+            "Parts of speech and their usage",
+            "The same word used as different parts of speech",
+            "Identification of errors",
+            "Types and transformation of sentences",
+            "Change of voice",
+            "Reported speech",
+            "Idioms",
+            "Legal words and usage"
+          ]
+        },
+        {
+          "title": "Applied writing and comprehension",
+          "page": 12,
+          "topics": [
+            "Paragraph writing",
+            "Report and press-report writing",
+            "Precis writing",
+            "Summarising",
+            "Essay writing",
+            "Cohesive devices",
+            "Comprehension passages",
+            "Letter writing"
+          ]
+        },
+        {
+          "title": "Professional legal writing",
+          "page": 12,
+          "topics": [
+            "Petitions",
+            "Notices",
+            "Refutation",
+            "Essays on topics of legal interest",
+            "Comprehension of legal content",
+            "Legal words and their usage",
+            "Cohesive legal devices"
+          ]
+        },
+        {
+          "title": "Legal translation",
+          "page": 12,
+          "topics": [
+            "Principles of translation",
+            "Translation exercises from legal texts",
+            "Translation exercises from decided cases"
+          ]
+        }
+      ],
+      "prescribedBooks": [],
+      "referenceBooks": [
+        "M. K. Gandhi, The Law and Lawyers, compiled and edited by S. B. Kher, Navajivan Publishing House, Ahmedabad",
+        "David Green, Contemporary English Grammar, Macmillan",
+        "Dr. S. C. Tripathi, Legal Language Writing and General English, Central Law Publications",
+        "Wren and Martin, English Grammar and Composition",
+        "Dr. S. C. Tripathi, Legal Language, Legal Writing, and General English, Central Law Publications (appears again in supplied list)"
+      ],
+      "kannadaReferences": [
+        "ಅನುವಾದ ಕಲೆ — ಎಸ್. ನಾಗಭೂಷಣ",
+        "ಭಾಷಾಂತರ ಸೌರಬ್ — ಲಕ್ಷ್ ಮೀನಾರಾಯಣ ಅರೀರ (PDF text extraction uncertain)",
+        "ಭಾಷಾಂತರ — ಪ್ರ ದಾನಗುರುದತ್ (PDF text extraction uncertain)",
+        "ಭಾಷಾಂತರ — ಕನ್ನಡ ವಿ.ವಿ. ಪ್ರಕಟಣೆ (PDF text extraction uncertain)",
+        "ಭಾಷಾಂತರ ಸಾಂಸ್ಕೃತಿಕ ನೆಲೆಗಳು — ವಿ.ವಿ. ಪ್ರಕಟಣೆ (PDF text extraction uncertain)"
+      ],
+      "bookLabel": "Text and Reference Books (source uses one combined heading)"
+    }
+  ]
+}
