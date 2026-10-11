@@ -24,4 +24,4 @@ tags: [law-notes, units]
 
 - [[01-Semester-1/Criminal-Law-I---BNS-2023/00 - Criminal Law I - BNS 2023|Criminal Law I · BNS]]
 - [[01-Semester-1/Criminal-Law-I---BNS-2023/00 - Books and Reading|Books]]
-- [[08-Brain-Branches/Notes-Maps/Criminal-Law-I---BNS-2023/Unit-04|Brain Map]]
+- [[08-Brain-Branches/Notes-Maps/Criminal-Law-I---BNS-2023/Unit-04.canvas|Brain Map]]

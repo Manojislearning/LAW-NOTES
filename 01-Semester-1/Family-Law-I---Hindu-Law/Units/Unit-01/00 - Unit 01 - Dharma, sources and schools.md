@@ -22,4 +22,4 @@ tags: [law-notes, units]
 
 - [[01-Semester-1/Family-Law-I---Hindu-Law/00 - Family Law I - Hindu Law|Family Law I · Hindu Law]]
 - [[01-Semester-1/Family-Law-I---Hindu-Law/00 - Books and Reading|Books]]
-- [[08-Brain-Branches/Notes-Maps/Family-Law-I---Hindu-Law/Unit-01|Brain Map]]
+- [[08-Brain-Branches/Notes-Maps/Family-Law-I---Hindu-Law/Unit-01.canvas|Brain Map]]

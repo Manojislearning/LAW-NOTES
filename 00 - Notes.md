@@ -24,7 +24,7 @@ tags: [law-notes]
 
 ## Maps & Reading
 
-- [[08-Brain-Branches/Notes-Maps/00 - Semester I Master|Brain Map]]
+- [[08-Brain-Branches/Notes-Maps/00 - Semester I Master.canvas|Brain Map]]
 - [[10-Books-and-Reading/00 - Reading Library|Books]]
 - [[03-Case-Law/Case Law Register|Cases]]
 - [[05-Previous-Year-Questions/PYQ Register|Exam Papers]]

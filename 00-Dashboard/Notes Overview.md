@@ -11,5 +11,5 @@
 ## Open
 
 - [[01-Semester-1/00 - Semester I Notes|Semester I Notes]]
-- [[08-Brain-Branches/Notes-Maps/00 - Semester I Master|Brain Map]]
+- [[08-Brain-Branches/Notes-Maps/00 - Semester I Master.canvas|Brain Map]]
 - [[10-Books-and-Reading/00 - Reading Library|Books]]
