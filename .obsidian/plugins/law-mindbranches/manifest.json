@@ -1,9 +1,9 @@
 {
   "id": "law-mindbranches",
   "name": "Law Notes MindBranches",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "minAppVersion": "1.5.0",
-  "description": "Interactive colored mind branches for KSLU study notes",
+  "description": "Read and navigate KSLU law notes as colored, foldable mind maps on desktop and mobile.",
   "author": "LAW-NOTES",
-  "isDesktopOnly": true
+  "isDesktopOnly": false
 }
