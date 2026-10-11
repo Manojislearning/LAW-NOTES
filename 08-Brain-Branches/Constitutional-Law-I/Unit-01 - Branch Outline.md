@@ -8,7 +8,7 @@ tags: [kslu, brain-branches, llb-year-1]
 ---
 # Constitutional Law I — Unit 1 Branch Outline
 
-**[[08-Brain-Branches/Constitutional-Law-I/Unit-01 - Constitution and Preamble|Open interactive Canvas]]** · [[01-Semester-1/Constitutional-Law-I/Unit-01 - Constitution and Preamble|Unit 1 syllabus index]]
+**[[08-Brain-Branches/Constitutional-Law-I/Unit-01 - Constitution and Preamble.canvas|Open interactive Canvas]]** · [[01-Semester-1/Constitutional-Law-I/Unit-01 - Constitution and Preamble|Unit 1 syllabus index]]
 
 These branches link to topic notes and specific headings. The underlying content is an unverified exam-preparation outline, not a completed answer bank.
 
