@@ -12,7 +12,7 @@ tags: [kslu, llb-year-1, brain-branches]
 > [!warning] Study status
 > This is a revision framework. Read the Preamble verbatim from the official text, and verify judicial propositions from reported decisions before writing them in an exam.
 
-**Unit:** [[Unit-01 - Constitution and Preamble]] · **Map:** [[08-Brain-Branches/Constitutional-Law-I/Unit-01 - Constitution and Preamble|Open Unit 1 Brain Branches]]
+**Unit:** [[Unit-01 - Constitution and Preamble]] · **Map:** [[08-Brain-Branches/Constitutional-Law-I/Unit-01 - Constitution and Preamble.canvas|Open Unit 1 Brain Branches]]
 
 The Preamble states the Constitution's foundational objectives and values. It offers a concise framework for explaining constitutional identity, purposes and interpretive principles.
 
