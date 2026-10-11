@@ -123,6 +123,21 @@ jobs:
           print('Moved Canvas maps:', maps)
           print('Updated Markdown/Canvas/JSON references:', replacements)
           PY
+      - name: Repair Canvas links in existing Markdown
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          count=0
+          for p in Path('.').rglob('*.md'):
+              s=p.read_text(encoding='utf-8-sig')
+              t=re.sub(r'\[\[(08-Brain-Branches/Notes-Maps/[^|\]]+?)(?<!\.canvas)\|',lambda m:'[['+m.group(1)+'.canvas|',s)
+              if t!=s:
+                  p.write_text(t,encoding='utf-8')
+                  count+=1
+          print('Updated Canvas note links:',count)
+          PY
       - name: Commit refactored notes
         shell: bash
         run: |
