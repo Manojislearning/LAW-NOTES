@@ -1,0 +1,472 @@
+{
+  "nodes": [
+    {
+      "id": "u1-root",
+      "type": "file",
+      "file": "01-Semester-1/Constitutional-Law-I/Unit-01 - Constitution and Preamble.md",
+      "x": 0,
+      "y": 1840,
+      "width": 380,
+      "height": 230,
+      "color": "6"
+    },
+    {
+      "id": "unit1-constitutions",
+      "type": "file",
+      "file": "01-Semester-1/Constitutional-Law-I/Topics/Meaning Kinds and Features of Constitutions.md",
+      "x": 560,
+      "y": 330,
+      "width": 380,
+      "height": 215,
+      "color": "4"
+    },
+    {
+      "id": "unit1-constitutions-0",
+      "type": "file",
+      "file": "01-Semester-1/Constitutional-Law-I/Topics/Meaning Kinds and Features of Constitutions.md",
+      "subpath": "#Meaning of a Constitution",
+      "x": 1090,
+      "y": 0,
+      "width": 390,
+      "height": 172,
+      "color": "4"
+    },
+    {
+      "id": "unit1-constitutions-1",
+      "type": "file",
+      "file": "01-Semester-1/Constitutional-Law-I/Topics/Meaning Kinds and Features of Constitutions.md",
+      "subpath": "#Written and Unwritten",
+      "x": 1090,
+      "y": 216,
+      "width": 390,
+      "height": 172,
+      "color": "4"
+    },
+    {
+      "id": "unit1-constitutions-2",
+      "type": "file",
+      "file": "01-Semester-1/Constitutional-Law-I/Topics/Meaning Kinds and Features of Constitutions.md",
+      "subpath": "#Rigid and Flexible",
+      "x": 1090,
+      "y": 432,
+      "width": 390,
+      "height": 172,
+      "color": "4"
+    },
+    {
+      "id": "unit1-constitutions-3",
+      "type": "file",
+      "file": "01-Semester-1/Constitutional-Law-I/Topics/Meaning Kinds and Features of Constitutions.md",
+      "subpath": "#Federal and Unitary",
+      "x": 1090,
+      "y": 648,
+      "width": 390,
+      "height": 172,
+      "color": "4"
+    },
+    {
+      "id": "unit1-constitutions-4",
+      "type": "file",
+      "file": "01-Semester-1/Constitutional-Law-I/Topics/Meaning Kinds and Features of Constitutions.md",
+      "subpath": "#Features of the Indian Constitution",
+      "x": 1090,
+      "y": 864,
+      "width": 390,
+      "height": 172,
+      "color": "4"
+    },
+    {
+      "id": "unit1-constitutionalism",
+      "type": "file",
+      "file": "01-Semester-1/Constitutional-Law-I/Topics/Constitutionalism.md",
+      "x": 560,
+      "y": 1610,
+      "width": 380,
+      "height": 215,
+      "color": "5"
+    },
+    {
+      "id": "unit1-constitutionalism-0",
+      "type": "file",
+      "file": "01-Semester-1/Constitutional-Law-I/Topics/Constitutionalism.md",
+      "subpath": "#Limited Government",
+      "x": 1090,
+      "y": 1280,
+      "width": 390,
+      "height": 172,
+      "color": "5"
+    },
+    {
+      "id": "unit1-constitutionalism-1",
+      "type": "file",
+      "file": "01-Semester-1/Constitutional-Law-I/Topics/Constitutionalism.md",
+      "subpath": "#Rule of Law",
+      "x": 1090,
+      "y": 1496,
+      "width": 390,
+      "height": 172,
+      "color": "5"
+    },
+    {
+      "id": "unit1-constitutionalism-2",
+      "type": "file",
+      "file": "01-Semester-1/Constitutional-Law-I/Topics/Constitutionalism.md",
+      "subpath": "#Separation of Powers",
+      "x": 1090,
+      "y": 1712,
+      "width": 390,
+      "height": 172,
+      "color": "5"
+    },
+    {
+      "id": "unit1-constitutionalism-3",
+      "type": "file",
+      "file": "01-Semester-1/Constitutional-Law-I/Topics/Constitutionalism.md",
+      "subpath": "#Judicial Review",
+      "x": 1090,
+      "y": 1928,
+      "width": 390,
+      "height": 172,
+      "color": "5"
+    },
+    {
+      "id": "unit1-constitutionalism-4",
+      "type": "file",
+      "file": "01-Semester-1/Constitutional-Law-I/Topics/Constitutionalism.md",
+      "subpath": "#Constitution versus Constitutionalism",
+      "x": 1090,
+      "y": 2144,
+      "width": 390,
+      "height": 172,
+      "color": "5"
+    },
+    {
+      "id": "unit1-preamble",
+      "type": "file",
+      "file": "01-Semester-1/Constitutional-Law-I/Topics/Preamble of the Constitution.md",
+      "x": 560,
+      "y": 2890,
+      "width": 380,
+      "height": 215,
+      "color": "3"
+    },
+    {
+      "id": "unit1-preamble-0",
+      "type": "file",
+      "file": "01-Semester-1/Constitutional-Law-I/Topics/Preamble of the Constitution.md",
+      "subpath": "#Purpose and Interpretation",
+      "x": 1090,
+      "y": 2560,
+      "width": 390,
+      "height": 172,
+      "color": "3"
+    },
+    {
+      "id": "unit1-preamble-1",
+      "type": "file",
+      "file": "01-Semester-1/Constitutional-Law-I/Topics/Preamble of the Constitution.md",
+      "subpath": "#Sovereign Socialist Secular Democratic Republic",
+      "x": 1090,
+      "y": 2776,
+      "width": 390,
+      "height": 172,
+      "color": "3"
+    },
+    {
+      "id": "unit1-preamble-2",
+      "type": "file",
+      "file": "01-Semester-1/Constitutional-Law-I/Topics/Preamble of the Constitution.md",
+      "subpath": "#Justice Liberty Equality Fraternity",
+      "x": 1090,
+      "y": 2992,
+      "width": 390,
+      "height": 172,
+      "color": "3"
+    },
+    {
+      "id": "unit1-preamble-3",
+      "type": "file",
+      "file": "01-Semester-1/Constitutional-Law-I/Topics/Preamble of the Constitution.md",
+      "subpath": "#Amendment and Basic Structure",
+      "x": 1090,
+      "y": 3208,
+      "width": 390,
+      "height": 172,
+      "color": "3"
+    },
+    {
+      "id": "unit1-preamble-4",
+      "type": "file",
+      "file": "01-Semester-1/Constitutional-Law-I/Topics/Preamble of the Constitution.md",
+      "subpath": "#How to Write the Exam Answer",
+      "x": 1090,
+      "y": 3424,
+      "width": 390,
+      "height": 172,
+      "color": "3"
+    },
+    {
+      "id": "unit1-citizenship",
+      "type": "file",
+      "file": "01-Semester-1/Constitutional-Law-I/Topics/Citizenship - Acquisition and Termination.md",
+      "x": 560,
+      "y": 4170,
+      "width": 380,
+      "height": 215,
+      "color": "2"
+    },
+    {
+      "id": "unit1-citizenship-0",
+      "type": "file",
+      "file": "01-Semester-1/Constitutional-Law-I/Topics/Citizenship - Acquisition and Termination.md",
+      "subpath": "#Constitutional Framework",
+      "x": 1090,
+      "y": 3840,
+      "width": 390,
+      "height": 172,
+      "color": "2"
+    },
+    {
+      "id": "unit1-citizenship-1",
+      "type": "file",
+      "file": "01-Semester-1/Constitutional-Law-I/Topics/Citizenship - Acquisition and Termination.md",
+      "subpath": "#Acquisition by Birth and Descent",
+      "x": 1090,
+      "y": 4056,
+      "width": 390,
+      "height": 172,
+      "color": "2"
+    },
+    {
+      "id": "unit1-citizenship-2",
+      "type": "file",
+      "file": "01-Semester-1/Constitutional-Law-I/Topics/Citizenship - Acquisition and Termination.md",
+      "subpath": "#Registration Naturalisation and Territory",
+      "x": 1090,
+      "y": 4272,
+      "width": 390,
+      "height": 172,
+      "color": "2"
+    },
+    {
+      "id": "unit1-citizenship-3",
+      "type": "file",
+      "file": "01-Semester-1/Constitutional-Law-I/Topics/Citizenship - Acquisition and Termination.md",
+      "subpath": "#Renunciation Termination and Deprivation",
+      "x": 1090,
+      "y": 4488,
+      "width": 390,
+      "height": 172,
+      "color": "2"
+    },
+    {
+      "id": "unit1-citizenship-4",
+      "type": "file",
+      "file": "01-Semester-1/Constitutional-Law-I/Topics/Citizenship - Acquisition and Termination.md",
+      "subpath": "#Current-law and Exam Checklist",
+      "x": 1090,
+      "y": 4704,
+      "width": 390,
+      "height": 172,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-unit-0",
+      "fromNode": "u1-root",
+      "fromSide": "right",
+      "toNode": "unit1-constitutions",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Meaning · types · features"
+    },
+    {
+      "id": "edge-constitutions-0",
+      "fromNode": "unit1-constitutions",
+      "fromSide": "right",
+      "toNode": "unit1-constitutions-0",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-constitutions-1",
+      "fromNode": "unit1-constitutions",
+      "fromSide": "right",
+      "toNode": "unit1-constitutions-1",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-constitutions-2",
+      "fromNode": "unit1-constitutions",
+      "fromSide": "right",
+      "toNode": "unit1-constitutions-2",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-constitutions-3",
+      "fromNode": "unit1-constitutions",
+      "fromSide": "right",
+      "toNode": "unit1-constitutions-3",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-constitutions-4",
+      "fromNode": "unit1-constitutions",
+      "fromSide": "right",
+      "toNode": "unit1-constitutions-4",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-unit-1",
+      "fromNode": "u1-root",
+      "fromSide": "right",
+      "toNode": "unit1-constitutionalism",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Constitutionalism"
+    },
+    {
+      "id": "edge-constitutionalism-0",
+      "fromNode": "unit1-constitutionalism",
+      "fromSide": "right",
+      "toNode": "unit1-constitutionalism-0",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-constitutionalism-1",
+      "fromNode": "unit1-constitutionalism",
+      "fromSide": "right",
+      "toNode": "unit1-constitutionalism-1",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-constitutionalism-2",
+      "fromNode": "unit1-constitutionalism",
+      "fromSide": "right",
+      "toNode": "unit1-constitutionalism-2",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-constitutionalism-3",
+      "fromNode": "unit1-constitutionalism",
+      "fromSide": "right",
+      "toNode": "unit1-constitutionalism-3",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-constitutionalism-4",
+      "fromNode": "unit1-constitutionalism",
+      "fromSide": "right",
+      "toNode": "unit1-constitutionalism-4",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-unit-2",
+      "fromNode": "u1-root",
+      "fromSide": "right",
+      "toNode": "unit1-preamble",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Preamble"
+    },
+    {
+      "id": "edge-preamble-0",
+      "fromNode": "unit1-preamble",
+      "fromSide": "right",
+      "toNode": "unit1-preamble-0",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-preamble-1",
+      "fromNode": "unit1-preamble",
+      "fromSide": "right",
+      "toNode": "unit1-preamble-1",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-preamble-2",
+      "fromNode": "unit1-preamble",
+      "fromSide": "right",
+      "toNode": "unit1-preamble-2",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-preamble-3",
+      "fromNode": "unit1-preamble",
+      "fromSide": "right",
+      "toNode": "unit1-preamble-3",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-preamble-4",
+      "fromNode": "unit1-preamble",
+      "fromSide": "right",
+      "toNode": "unit1-preamble-4",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-unit-3",
+      "fromNode": "u1-root",
+      "fromSide": "right",
+      "toNode": "unit1-citizenship",
+      "toSide": "left",
+      "toEnd": "arrow",
+      "label": "Citizenship"
+    },
+    {
+      "id": "edge-citizenship-0",
+      "fromNode": "unit1-citizenship",
+      "fromSide": "right",
+      "toNode": "unit1-citizenship-0",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-citizenship-1",
+      "fromNode": "unit1-citizenship",
+      "fromSide": "right",
+      "toNode": "unit1-citizenship-1",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-citizenship-2",
+      "fromNode": "unit1-citizenship",
+      "fromSide": "right",
+      "toNode": "unit1-citizenship-2",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-citizenship-3",
+      "fromNode": "unit1-citizenship",
+      "fromSide": "right",
+      "toNode": "unit1-citizenship-3",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-citizenship-4",
+      "fromNode": "unit1-citizenship",
+      "fromSide": "right",
+      "toNode": "unit1-citizenship-4",
+      "toSide": "left",
+      "toEnd": "arrow"
+    }
+  ]
+}
