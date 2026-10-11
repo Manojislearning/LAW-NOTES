@@ -17,7 +17,7 @@ tags:
 
 ## KSLU units
 
-1. [[Unit-01 - Constitution and Preamble]] — [[08-Brain-Branches/Constitutional-Law-I/Unit-01 - Constitution and Preamble|Open Unit 1 Brain Branches]]
+1. [[Unit-01 - Constitution and Preamble]] — [[08-Brain-Branches/Constitutional-Law-I/Unit-01 - Constitution and Preamble.canvas|Open Unit 1 Brain Branches]]
 2. [[Unit-02 - State, law and equality]]
 3. [[Unit-03 - Equal opportunity and freedoms]]
 4. [[Unit-04 - Criminal process, life and religion]]
