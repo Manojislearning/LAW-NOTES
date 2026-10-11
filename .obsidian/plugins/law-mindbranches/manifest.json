@@ -1,0 +1,9 @@
+{
+  "id": "law-mindbranches",
+  "name": "Law Notes MindBranches",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Interactive colored mind branches for KSLU study notes",
+  "author": "LAW-NOTES",
+  "isDesktopOnly": true
+}
