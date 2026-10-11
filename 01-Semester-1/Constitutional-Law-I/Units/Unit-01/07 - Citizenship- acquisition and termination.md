@@ -1,46 +1,62 @@
 ---
-type: syllabus-topic
-subject: "Constitutional Law – I"
-unit: 1
+type: study-note
 semester: 1
-status: syllabus-heading-only
-verification: requires-primary-law-and-book-check
-source_page: 1
-source_document: "KSLU LL.B Syllabus Updated one(1).pdf"
-tags: [kslu, semester-1, unit-topic, brain-branches]
+unit: 1
+subject: Constitutional Law I
+title: "Indian Citizenship: Gain & Loss"
+summary: "Articles 5–11 + Citizenship Act, 1955"
+reading_minutes: 3
+status: study-explanation
+tags: [kslu, llb, constitutional-law, unit-1, short-notes]
 ---
 
-# Citizenship: acquisition and termination
+# Indian Citizenship: Gain & Loss
 
-**Part of:** [[01-Semester-1/Constitutional-Law-I/Units/Unit-01/00 - Unit 01 - Constitution, Preamble and citizenship|Unit 1 — Constitution, Preamble and citizenship]]  
-**Course:** [[01-Semester-1/Constitutional-Law-I/00 - Constitutional Law I|Constitutional Law – I]]  
-**Books:** [[01-Semester-1/Constitutional-Law-I/00 - Books and Reading|Prescribed and reference books]]  
-**Visual map:** [[08-Brain-Branches/Syllabus-From-Uploaded-PDF/Constitutional-Law-I/Unit-01.canvas|Unit 1 branches]]  
+*Articles 5–11 + Citizenship Act, 1955*
 
-## Syllabus heading
+## Quick idea
+**Citizenship** is legal membership of the Indian State. The Constitution deals with citizenship at its commencement; **Parliament makes laws for continuing acquisition and loss**.
 
-- Citizenship: acquisition and termination
+## Constitution: Articles 5–11
+- Articles **5–10** concern citizenship at the commencement and related transitional issues.
+- **Article 11** empowers Parliament to legislate on citizenship.
 
-## Study note
+## Gaining citizenship
+Under the **Citizenship Act, 1955**:
 
-> [!important] Syllabus-only scaffold
-> The uploaded document names this topic but does **not** provide a textbook explanation, statutory analysis or judicial holdings. Add researched content below; do not treat this page as an exam-ready answer.
+1. **Section 3:** Birth, subject to statutory conditions that depend on date and circumstances.
+2. **Section 4:** Descent.
+3. **Section 5:** Registration.
+4. **Section 6:** Naturalisation.
+5. **Section 7:** Incorporation of territory.
 
-### Exam-answer preparation
+**Section 6B** creates a special statutory pathway for specified eligible persons.
 
-- [ ] Meaning, definition and key rule (verify against the applicable statute)
-- [ ] Essential elements, conditions or legal tests
-- [ ] Exceptions, limitations or contrasting doctrines
-- [ ] Relevant provisions with current numbering checked
-- [ ] Leading decisions with court, year and ratio verified
-- [ ] Short answer, 10-mark answer and 15-mark answer
+## Losing citizenship
+- **Section 8 — Renunciation:** Giving up citizenship by the prescribed procedure.
+- **Section 9 — Termination:** Voluntary acquisition of foreign citizenship, subject to statutory rules.
+- **Section 10 — Deprivation:** A Central Government order in legally defined circumstances; not an automatic power for every citizen.
 
+> [!important] Current law
+> Conditions and procedures vary. The 2019 amendment, 2024 rules and later developments should be checked before giving detailed legal advice or stating eligibility.
 
-## My verified notes
+## Write in the exam
+Explain Articles 5–11, list the statutory acquisition routes, then distinguish **renunciation / termination / deprivation**.
 
-_Add referenced content here._
+## Check yourself
+**Q:** Which Article authorises Parliament to make citizenship laws?
 
-## Authorities and page references
+**A:** Article 11.
 
-- **Primary source:** _to be verified_
-- **Prescribed text and page:** _to be filled_
+## Sources
+
+- Uploaded KSLU Semester I syllabus, Constitutional Law I, Unit I (p. 1).
+- [Official Constitution](https://www.legislative.gov.in/constitution-of-india/).
+- [India Code — Citizenship Act, 1955](https://www.indiacode.nic.in/handle/123456789/19760?sam_handle=123456789%2F2505).
+- [Ministry of Home Affairs — citizenship updates](https://www.mha.gov.in/en/divisionofmha/foreigners-division).
+
+## Continue
+
+[[01-Semester-1/Constitutional-Law-I/Units/Unit-01/08 - Unit 1 Quick Revision|Quick revision →]]
+
+← [[01-Semester-1/Constitutional-Law-I/Units/Unit-01/06 - Preamble- objectives and values|Four Values of the Preamble]] · [[01-Semester-1/Constitutional-Law-I/Units/Unit-01/00 - Unit 01 - Constitution, Preamble and citizenship|Unit 1 Home]]

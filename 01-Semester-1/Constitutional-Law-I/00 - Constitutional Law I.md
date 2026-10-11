@@ -7,13 +7,19 @@ status: aligned-to-uploaded-pdf
 tags: [kslu, llb, semester-1, syllabus-course]
 ---
 
-# Course I — Constitutional Law – I
+# Constitutional Law I
 
 **Home:** [[01-Semester-1/00 - Semester I Syllabus Index|Semester I Index]]  
 **Books:** [[01-Semester-1/Constitutional-Law-I/00 - Books and Reading|Prescribed and reference books]]  
 **Subject map:** [[08-Brain-Branches/Syllabus-From-Uploaded-PDF/Constitutional-Law-I/00 - Subject Branches.canvas|Open Subject Brain Branches]]
 
 **Objective (condensed from syllabus):** Normative character and aspirations of the Indian Constitution; constitutional supremacy, rule of law, liberty, fundamental rights and directive principles.
+
+## Start here: short study notes
+
+- [[01-Semester-1/Constitutional-Law-I/Units/Unit-01/00 - Unit 01 - Constitution, Preamble and citizenship|Unit 1: Seven short lessons]]
+- [[01-Semester-1/Constitutional-Law-I/Units/Unit-01/08 - Unit 1 Quick Revision|Two-minute revision]]
+- [[01-Semester-1/Constitutional-Law-I/Units/Unit-01/09 - Unit 1 Exam Practice|Practice questions]]
 
 ## Units (as in uploaded syllabus)
 

@@ -3,6 +3,12 @@
 > [!important] Uploaded syllabus now mapped
 > Semester I has been reorganized from the supplied **13-page updated syllabus PDF** into 5 core subject folders (25 units) and one conditional English paper (5 units). Older substantive topic notes, Semester II and study tools remain in the repository.
 
+## Start with readable Unit 1 notes
+
+- [[01-Semester-1/Constitutional-Law-I/Units/Unit-01/00 - Unit 01 - Constitution, Preamble and citizenship|Constitutional Law I · Unit 1]]
+- [[01-Semester-1/Constitutional-Law-I/Units/Unit-01/08 - Unit 1 Quick Revision|Two-minute revision]]
+- [[01-Semester-1/Constitutional-Law-I/Units/Unit-01/09 - Unit 1 Exam Practice|Quick practice]]
+
 ## Open Semester I
 
 - [[01-Semester-1/00 - Semester I Syllabus Index|Complete Semester I syllabus]]

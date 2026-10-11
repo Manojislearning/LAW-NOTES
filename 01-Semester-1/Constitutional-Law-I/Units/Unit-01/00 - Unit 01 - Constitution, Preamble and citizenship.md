@@ -1,45 +1,45 @@
 ---
-type: syllabus-unit
+type: study-unit
 semester: 1
 unit: 1
-subject: "Constitutional Law – I"
-source_page: 1
-source_document: "KSLU LL.B Syllabus Updated one(1).pdf"
-status: syllabus-mapped-not-exam-ready
-tags: [kslu, llb, semester-1, syllabus-unit, brain-branches]
+subject: "Constitutional Law I"
+title: "Unit 1 — Constitution, Preamble & Citizenship"
+status: study-notes-ready
+reading_minutes: 15
+tags: [kslu, constitutional-law, unit-1, study-index]
 ---
 
-# Unit 1 — Constitution, Preamble and citizenship
+# Unit 1 — Constitution, Preamble & Citizenship
 
-**[[01-Semester-1/Constitutional-Law-I/00 - Constitutional Law I|Constitutional Law – I]]** · [[01-Semester-1/Constitutional-Law-I/00 - Books and Reading|Book list]] · [[08-Brain-Branches/Syllabus-From-Uploaded-PDF/Constitutional-Law-I/Unit-01.canvas|Open Brain Branches Canvas]] · [[06-Statutes-and-Sources/KSLU Semester I - Source and Update Warnings|Source warnings]]
+> [!tip] One topic at a time
+> Start with the first note. Each short page explains one idea, shows how to write it in an exam, and includes a quick memory check.
 
-> [!info] Source
-> KSLU LL.B Syllabus Updated one(1).pdf, page 1 (PDF page numbering). Topics are separated into study headings from the supplied course-unit text; the source itself does not contain finished legal answers.
+## Seven short lessons
 
-## Unit syllabus — topic-by-topic
+1. [[01-Semester-1/Constitutional-Law-I/Units/Unit-01/01 - Meaning and definition of Constitution|What Is a Constitution?]]
+2. [[01-Semester-1/Constitutional-Law-I/Units/Unit-01/02 - Kinds of Constitution|Types of Constitutions]]
+3. [[01-Semester-1/Constitutional-Law-I/Units/Unit-01/03 - Constitutionalism|Constitutionalism]]
+4. [[01-Semester-1/Constitutional-Law-I/Units/Unit-01/04 - Salient features of the Indian Constitution|India’s Constitution: Key Features]]
+5. [[01-Semester-1/Constitutional-Law-I/Units/Unit-01/05 - Preamble- meaning, scope and importance|The Preamble: Why It Matters]]
+6. [[01-Semester-1/Constitutional-Law-I/Units/Unit-01/06 - Preamble- objectives and values|Four Values of the Preamble]]
+7. [[01-Semester-1/Constitutional-Law-I/Units/Unit-01/07 - Citizenship- acquisition and termination|Indian Citizenship: Gain & Loss]]
 
-- [ ] [[01-Semester-1/Constitutional-Law-I/Units/Unit-01/01 - Meaning and definition of Constitution|Meaning and definition of Constitution]]
-- [ ] [[01-Semester-1/Constitutional-Law-I/Units/Unit-01/02 - Kinds of Constitution|Kinds of Constitution]]
-- [ ] [[01-Semester-1/Constitutional-Law-I/Units/Unit-01/03 - Constitutionalism|Constitutionalism]]
-- [ ] [[01-Semester-1/Constitutional-Law-I/Units/Unit-01/04 - Salient features of the Indian Constitution|Salient features of the Indian Constitution]]
-- [ ] [[01-Semester-1/Constitutional-Law-I/Units/Unit-01/05 - Preamble- meaning, scope and importance|Preamble: meaning, scope and importance]]
-- [ ] [[01-Semester-1/Constitutional-Law-I/Units/Unit-01/06 - Preamble- objectives and values|Preamble: objectives and values]]
-- [ ] [[01-Semester-1/Constitutional-Law-I/Units/Unit-01/07 - Citizenship- acquisition and termination|Citizenship: acquisition and termination]]
+## Revise and practise
 
-## Study workflow
+- [[01-Semester-1/Constitutional-Law-I/Units/Unit-01/08 - Unit 1 Quick Revision|Two-minute summary]]
+- [[01-Semester-1/Constitutional-Law-I/Units/Unit-01/09 - Unit 1 Exam Practice|10 practice questions]]
+- [[08-Brain-Branches/Syllabus-From-Uploaded-PDF/Constitutional-Law-I/Unit-01.canvas|Brain Branch map]]
 
-- [ ] Read the corresponding statute, Constitution provision or prescribed chapter
-- [ ] Prepare full notes with verifiable sources and case-law citations
-- [ ] Write a short answer and a structured long answer for every examinable topic
-- [ ] Connect related topics using Obsidian `[[wikilinks]]`
-- [ ] Revise the visual [[08-Brain-Branches/Syllabus-From-Uploaded-PDF/Constitutional-Law-I/Unit-01.canvas|unit map]]
+## What KSLU asks you to cover
 
-## Books and sources
+The uploaded syllabus (page 1) includes the meaning and definition of the Constitution, kinds of Constitution, constitutionalism, salient Indian features, the Preamble's meaning and values, and acquisition and termination of citizenship.
 
-See [[01-Semester-1/Constitutional-Law-I/00 - Books and Reading|Books for Constitutional Law – I]]. Record exact edition and chapter/page numbers, rather than assuming the books have been downloaded.
+These explanations go beyond the syllabus headings using primary constitutional and statutory sources. They are **not copied from a textbook**.
 
-## Exam practice
+## Reading list
 
-- [ ] Five important questions identified from verified previous papers
-- [ ] At least one timed answer attempted
-- [ ] Statutory changes and references checked
+[[01-Semester-1/Constitutional-Law-I/00 - Books and Reading|V. N. Shukla, M. P. Jain and reference books]]
+
+## Ready for Unit 2?
+
+[[01-Semester-1/Constitutional-Law-I/Units/Unit-02/00 - Unit 02 - State, law, judicial review and equality|Continue to Unit 2]]
