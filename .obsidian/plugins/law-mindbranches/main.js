@@ -202,8 +202,12 @@ class MapView extends ItemView{
    const y=n.y+n.lines.length*lh/2+5;
    svg('line',{x1:n.x,y1:y,x2:n.x+n.width-10,y2:y,stroke:n.color,'stroke-width':n.depth===0?4:2},g);
    if(n.children.length){
-    const circle=svg('circle',{cx:n.x-13,cy:n.y,r:7,fill:n.closed?'var(--background-primary)':n.color,stroke:n.color,'stroke-width':2.5,class:'lmb-fold'},g);
-    circle.addEventListener('click',()=>{n.closed=!n.closed;this.render(true);});
+    const toggle=()=>{n.closed=!n.closed;this.render(true);};
+    const hit=svg('circle',{cx:n.x-13,cy:n.y,r:20,fill:'transparent',class:'lmb-fold-hit'},g);
+    hit.addEventListener('click',toggle);
+    const circle=svg('circle',{cx:n.x-13,cy:n.y,r:8,fill:n.closed?'var(--background-primary)':n.color,stroke:n.color,'stroke-width':2.5,class:'lmb-fold',tabindex:0,role:'button','aria-label':(n.closed?'Expand ':'Collapse ')+n.name},g);
+    circle.addEventListener('click',toggle);
+    circle.addEventListener('keydown',event=>{if(event.key==='Enter'||event.key===' '){event.preventDefault();toggle();}});
     if(n.closed)svg('path',{d:'M '+(n.x-16)+' '+n.y+' h6 M '+(n.x-13)+' '+(n.y-3)+' v6',stroke:n.color,'stroke-width':1.5,'pointer-events':'none'},g);
    }
   });
