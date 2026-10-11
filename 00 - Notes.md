@@ -24,7 +24,7 @@ tags: [law-notes]
 
 ## Maps & Reading
 
-- [Interactive Brain Branches — Full SVG Map](https://manojislearning.github.io/law-learning/reader/?map=1)
+- [Topic Brain Branches — Zoomable SVG](https://manojislearning.github.io/law-learning/reader/?map=1)
 
 - [[08-Brain-Branches/Notes-Maps/00 - Semester I Master.canvas|Brain Map]]
 - [[10-Books-and-Reading/00 - Reading Library|Books]]
