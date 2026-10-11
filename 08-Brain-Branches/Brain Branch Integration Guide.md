@@ -14,7 +14,7 @@ The included `First-Year Brain Branches.canvas` shows the pattern. It is a stati
 
 Each unit should have one dedicated `.canvas` navigation map and a link from the unit's Markdown index. Example:
 
-- [[01-Semester-1/Constitutional-Law-I/Unit-01 - Constitution and Preamble|Constitutional Law I — Unit 1]] → [[08-Brain-Branches/Constitutional-Law-I/Unit-01 - Constitution and Preamble|Open Unit 1 Brain Branches]]
+- [[01-Semester-1/Constitutional-Law-I/Unit-01 - Constitution and Preamble|Constitutional Law I — Unit 1]] → [[08-Brain-Branches/Constitutional-Law-I/Unit-01 - Constitution and Preamble.canvas|Open Unit 1 Brain Branches]]
 - [[08-Brain-Branches/Constitutional-Law-I/Unit-01 - Branch Outline|Unit 1 text branches]]
 
 The Unit 1 Canvas uses file cards (with heading `subpath` where useful) so branches point to the **same** topic notes, rather than creating duplicate copies. The topic notes remain the source of truth; verify statutes and case citations before exam use. This map was prepared from syllabus checklist notes in this vault; it is **not** a live copy of any unsaved browser session in the Brain Branches app.
