@@ -24,10 +24,10 @@ tags:
 
 ## Coverage checklist
 
-- [ ] **Meaning, kinds and salient features of constitutions** — [[Meaning Kinds and Features of Constitutions|branch note]] — — write a verified [[Template - Exam Topic|exam-ready topic note]]
-- [ ] **Constitutionalism** — [[Constitutionalism|branch note]] — — write a verified [[Template - Exam Topic|exam-ready topic note]]
-- [ ] **Preamble: meaning, scope and values** — [[Preamble of the Constitution|branch note]] — — write a verified [[Template - Exam Topic|exam-ready topic note]]
-- [ ] **Citizenship: acquisition and termination** — [[Citizenship - Acquisition and Termination|branch note]] — — write a verified [[Template - Exam Topic|exam-ready topic note]]
+- [ ] **Meaning, kinds and salient features of constitutions** — [[Meaning Kinds and Features of Constitutions|branch note]] — write a verified [[Template - Exam Topic|exam-ready topic note]]
+- [ ] **Constitutionalism** — [[Constitutionalism|branch note]] — write a verified [[Template - Exam Topic|exam-ready topic note]]
+- [ ] **Preamble: meaning, scope and values** — [[Preamble of the Constitution|branch note]] — write a verified [[Template - Exam Topic|exam-ready topic note]]
+- [ ] **Citizenship: acquisition and termination** — [[Citizenship - Acquisition and Termination|branch note]] — write a verified [[Template - Exam Topic|exam-ready topic note]]
 
 ## Exam questions assigned to this unit
 
