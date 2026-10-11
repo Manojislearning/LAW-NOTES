@@ -1,5 +1,5 @@
 'use strict';
-const {Plugin,ItemView,TFile,Notice}=require('obsidian');
+const {Plugin,ItemView,TFile,Notice,Platform}=require('obsidian');
 const VIEW='law-mindbranches';
 const NS='http://www.w3.org/2000/svg';
 const PALETTE=['#2184d0','#eb8931','#3ba56b','#da5653','#8760c6','#13a3a8','#c8a13d'];
@@ -86,7 +86,7 @@ class MapView extends ItemView{
  getDisplayText(){return 'Law Notes · MindBranches';}
  getIcon(){return 'git-branch';}
  getState(){return {path:this.path,scope:this.scope};}
- async setState(state,result){this.path=state.path||this.path;this.scope=state.scope||this.scope;await super.setState(state,result);await this.reload();}
+ async setState(state,result){this.path=(state&&state.path)||this.path;this.scope=(state&&state.scope)||this.scope;await super.setState(state,result);await this.reload();}
  async onOpen(){
   const shell=this.contentEl.createDiv({cls:'lmb-shell'});
   this.toolbar=shell.createDiv({cls:'lmb-toolbar'});
@@ -110,9 +110,13 @@ class MapView extends ItemView{
   this.canvas.addEventListener('pointermove',e=>{if(!this.drag)return;this.x=this.drag.ox+e.clientX-this.drag.x;this.y=this.drag.oy+e.clientY-this.drag.y;this.transform();});
   this.canvas.addEventListener('pointerup',()=>{this.drag=null;});
   this.canvas.addEventListener('pointercancel',()=>{this.drag=null;});
+  if(typeof ResizeObserver!=='undefined'){
+   this.resizeObserver=new ResizeObserver(()=>{if(this.root&&this.group)this.render(false);});
+   this.resizeObserver.observe(this.frame);
+  }
   await this.reload();
  }
- async onClose(){this.version++;this.contentEl.empty();}
+ async onClose(){this.version++;if(this.resizeObserver)this.resizeObserver.disconnect();this.contentEl.empty();}
  button(text,fn){const button=this.toolbar.createEl('button',{text,attr:{type:'button'}});button.addEventListener('click',fn);return button;}
  async reload(){
   if(!this.toolbar)return;
@@ -127,13 +131,24 @@ class MapView extends ItemView{
   [16,20,24,28].forEach(size=>{const opt=font.createEl('option',{text:size+' px',value:String(size)});opt.selected=size===this.font;});
   font.addEventListener('change',()=>{this.font=Number(font.value);this.render(true);});
   const wrap=this.button(this.wrap?'One line':'Wrap text',()=>{this.wrap=!this.wrap;wrap.textContent=this.wrap?'One line':'Wrap text';this.render(true);});
-  this.button('Fit',()=>this.fit());this.button('Refresh',()=>this.reload());
+  this.button('−',()=>this.magnify(.8));
+  this.button('+',()=>this.magnify(1.25));
+  this.button('Fit',()=>this.fit());
+  this.button('Refresh',()=>this.reload());
   const file=this.app.vault.getAbstractFileByPath(this.path)||this.app.workspace.getActiveFile();
   if(file instanceof TFile)this.path=file.path;
   try{const root=await loadTree(this.app,file,this.scope);if(v!==this.version)return;this.root=root;this.render(true);}
   catch(err){console.error('Law MindBranches',err);new Notice('Could not load branch map: '+err.message);}
  }
- transform(){this.group.setAttribute('transform','translate('+this.x+' '+this.y+') scale('+this.zoom+')');}
+ magnify(factor){
+  const w=this.frame.clientWidth||900,h=this.frame.clientHeight||650;
+  const next=Math.max(.1,Math.min(3,this.zoom*factor));
+  const ratio=next/this.zoom;
+  this.x=w/2-(w/2-this.x)*ratio;
+  this.y=h/2-(h/2-this.y)*ratio;
+  this.zoom=next;this.transform();
+ }
+ transform(){if(this.group)this.group.setAttribute('transform','translate('+this.x+' '+this.y+') scale('+this.zoom+')');}
  fit(){
   if(!this.bounds)return;const w=this.frame.clientWidth||900,h=this.frame.clientHeight||650;
   this.zoom=Math.max(.08,Math.min(1.3,(w-110)/this.bounds.w,(h-90)/this.bounds.h));
@@ -197,13 +212,23 @@ class MapView extends ItemView{
  async openNote(path){
   const file=this.app.vault.getAbstractFileByPath(path);
   if(!(file instanceof TFile)){new Notice('Note not found');return;}
-  const leaf=this.app.workspace.getLeaf('split','vertical');await leaf.openFile(file);await this.app.workspace.revealLeaf(leaf);
+  const leaf=Platform.isMobile
+    ? this.app.workspace.getLeaf('tab')
+    : this.app.workspace.getLeaf('split','vertical');
+   await leaf.openFile(file);
+   await this.app.workspace.revealLeaf(leaf);
  }
 }
 class LawMindBranches extends Plugin{
  async onload(){
   this.registerView(VIEW,leaf=>new MapView(leaf));
   this.addRibbonIcon('git-branch','Open MindBranches',()=>this.open('unit'));
+  this.registerEvent(this.app.workspace.on('file-menu',(menu,file)=>{
+   if(!(file instanceof TFile)||file.extension!=='md')return;
+   menu.addItem(item=>item.setTitle('Open MindBranches')
+    .setIcon('git-branch')
+    .onClick(()=>this.open('unit',file.path)));
+  }));
   for(const [scope,title]of [['note','Open current note branches'],['unit','Open unit MindBranches'],['subject','Open subject MindBranches'],['semester','Open semester MindBranches']]){
    this.addCommand({id:'open-'+scope+'-branches',name:title,callback:()=>this.open(scope)});
   }
@@ -216,11 +241,12 @@ class LawMindBranches extends Plugin{
    this.timer=setTimeout(()=>this.app.workspace.getLeavesOfType(VIEW).forEach(leaf=>{if(leaf.view instanceof MapView)leaf.view.reload();}),700);
   }));
  }
- async open(scope){
+ async open(scope,sourcePath){
   const previous=this.app.workspace.getLeavesOfType(VIEW)[0];
   const file=this.app.workspace.getActiveFile();
   const leaf=previous||this.app.workspace.getLeaf('tab');
-  await leaf.setViewState({type:VIEW,active:true,state:{scope,path:file&&file.path||previous&&previous.view.path||''}});
+  const path=sourcePath||(file&&file.path)||(previous&&previous.view.path)||'';
+  await leaf.setViewState({type:VIEW,active:true,state:{scope,path}});
   await this.app.workspace.revealLeaf(leaf);
  }
  onunload(){clearTimeout(this.timer);this.app.workspace.detachLeavesOfType(VIEW);}
