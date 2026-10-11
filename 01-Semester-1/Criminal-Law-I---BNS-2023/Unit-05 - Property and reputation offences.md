@@ -1,40 +1,17 @@
 ---
-type: unit
+type: legacy-unit-shortcut
 semester: 1
-subject: "Criminal Law I - BNS 2023"
-status: outline-only
-verification: source-checked
 unit: 5
-tags:
-  - kslu
-  - llb-year-1
+subject: "Criminal Law-I: Bharatiya Nyaya Sanhita, 2023"
+tags: [kslu, legacy-link]
 ---
-# Unit-05 - Property and reputation offences
 
-> [!info] Source
-> **KSLU circular of 26 September 2024, Appendix I, pages 1–2** · [Open original syllabus](https://kslucorner.in/assets/syllabus/kslu-new-criminal-laws.pdf).
-> These are study-checklist headings grouped from the syllabus, not complete legal answers.
+# Unit 5 — Property offences, intimidation and defamation
 
-## Coverage checklist
+> [!note] This unit has been reorganised from the newly uploaded syllabus. This page is retained so existing Obsidian links and older Canvas maps do not break.
 
-- [ ] **Theft, snatching, extortion, robbery and dacoity** — write a verified [[Template - Exam Topic|exam-ready topic note]]
-- [ ] **Misappropriation and criminal breach of trust** — write a verified [[Template - Exam Topic|exam-ready topic note]]
-- [ ] **Receiving stolen property and cheating** — write a verified [[Template - Exam Topic|exam-ready topic note]]
-- [ ] **Defamation and criminal intimidation** — write a verified [[Template - Exam Topic|exam-ready topic note]]
-- [ ] **Insult and annoyance-related offences** — write a verified [[Template - Exam Topic|exam-ready topic note]]
+**Open current unit:** [[01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-05/00 - Unit 05 - Property offences, intimidation and defamation|Unit 5 — Property offences, intimidation and defamation]]
 
-## Exam questions assigned to this unit
+**Brain Branches:** [[08-Brain-Branches/Syllabus-From-Uploaded-PDF/Criminal-Law-I---BNS-2023/Unit-05.canvas|Visual unit map]]
 
-- Add links to prior-paper questions here after checking each paper.
-
-## Key legislation and cases
-
-- Add exact sections/articles, leading judgments, and reliable citations.
-
-## Study progress
-
-- [ ] Core principles documented
-- [ ] Current law checked
-- [ ] Two judgments verified
-- [ ] Past-paper questions indexed
-- [ ] Model answer written and reviewed
+**Books:** [[01-Semester-1/Criminal-Law-I---BNS-2023/00 - Books and Reading|Reading list]]

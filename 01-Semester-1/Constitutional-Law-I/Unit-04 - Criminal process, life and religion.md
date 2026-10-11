@@ -1,40 +1,17 @@
 ---
-type: unit
+type: legacy-unit-shortcut
 semester: 1
-subject: "Constitutional Law I"
-status: outline-only
-verification: source-checked
 unit: 4
-tags:
-  - kslu
-  - llb-year-1
+subject: "Constitutional Law – I"
+tags: [kslu, legacy-link]
 ---
-# Unit-04 - Criminal process, life and religion
 
-> [!info] Source
-> **KSLU Appendix VI-A, course section near printed page 4** · [Open original syllabus](https://kslucorner.in/assets/syllabus/kslu-llb-syllabus.pdf).
-> These are study-checklist headings grouped from the syllabus, not complete legal answers.
+# Unit 4 — Rights of accused, life, exploitation and religion
 
-## Coverage checklist
+> [!note] This unit has been reorganised from the newly uploaded syllabus. This page is retained so existing Obsidian links and older Canvas maps do not break.
 
-- [ ] **Article 20: ex post facto law, double jeopardy and self-incrimination** — write a verified [[Template - Exam Topic|exam-ready topic note]]
-- [ ] **Article 21: life and personal liberty** — write a verified [[Template - Exam Topic|exam-ready topic note]]
-- [ ] **Article 22: arrest and preventive detention** — write a verified [[Template - Exam Topic|exam-ready topic note]]
-- [ ] **Article 23 and 24: exploitation** — write a verified [[Template - Exam Topic|exam-ready topic note]]
-- [ ] **Articles 25–28: freedom of religion and secularism** — write a verified [[Template - Exam Topic|exam-ready topic note]]
+**Open current unit:** [[01-Semester-1/Constitutional-Law-I/Units/Unit-04/00 - Unit 04 - Rights of accused, life, exploitation and religion|Unit 4 — Rights of accused, life, exploitation and religion]]
 
-## Exam questions assigned to this unit
+**Brain Branches:** [[08-Brain-Branches/Syllabus-From-Uploaded-PDF/Constitutional-Law-I/Unit-04.canvas|Visual unit map]]
 
-- Add links to prior-paper questions here after checking each paper.
-
-## Key legislation and cases
-
-- Add exact sections/articles, leading judgments, and reliable citations.
-
-## Study progress
-
-- [ ] Core principles documented
-- [ ] Current law checked
-- [ ] Two judgments verified
-- [ ] Past-paper questions indexed
-- [ ] Model answer written and reviewed
+**Books:** [[01-Semester-1/Constitutional-Law-I/00 - Books and Reading|Reading list]]

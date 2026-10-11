@@ -1,0 +1,185 @@
+{
+  "nodes": [
+    {
+      "id": "unit",
+      "type": "file",
+      "file": "01-Semester-1/Law-of-Torts/Units/Unit-05/00 - Unit 05 - Consumer protection and motor vehicles.md",
+      "x": 0,
+      "y": 427,
+      "width": 390,
+      "height": 180
+    },
+    {
+      "id": "topic-01",
+      "type": "file",
+      "file": "01-Semester-1/Law-of-Torts/Units/Unit-05/01 - Consumer Protection Act, 1986- salient features (as in supplied syllabus.md",
+      "x": 540,
+      "y": 0,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-02",
+      "type": "file",
+      "file": "01-Semester-1/Law-of-Torts/Units/Unit-05/02 - Consumer, defect in goods and deficiency in services.md",
+      "x": 540,
+      "y": 190,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-03",
+      "type": "file",
+      "file": "01-Semester-1/Law-of-Torts/Units/Unit-05/03 - Medical services and consumer remedies.md",
+      "x": 540,
+      "y": 380,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-04",
+      "type": "file",
+      "file": "01-Semester-1/Law-of-Torts/Units/Unit-05/04 - Consumer disputes redressal agencies.md",
+      "x": 540,
+      "y": 570,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-05",
+      "type": "file",
+      "file": "01-Semester-1/Law-of-Torts/Units/Unit-05/05 - Limitation for complaints and penalties.md",
+      "x": 540,
+      "y": 760,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-06",
+      "type": "file",
+      "file": "01-Semester-1/Law-of-Torts/Units/Unit-05/06 - Motor Vehicles Act, 1988- salient features.md",
+      "x": 540,
+      "y": 950,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-07",
+      "type": "file",
+      "file": "01-Semester-1/Law-of-Torts/Units/Unit-05/07 - Liability without fault in certain cases.md",
+      "x": 540,
+      "y": 1140,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-08",
+      "type": "file",
+      "file": "01-Semester-1/Law-of-Torts/Units/Unit-05/08 - Third-party motor insurance.md",
+      "x": 540,
+      "y": 1330,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-09",
+      "type": "file",
+      "file": "01-Semester-1/Law-of-Torts/Units/Unit-05/09 - Claims Tribunal.md",
+      "x": 540,
+      "y": 1520,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-10",
+      "type": "file",
+      "file": "01-Semester-1/Law-of-Torts/Units/Unit-05/10 - Offences, penalties and procedure.md",
+      "x": 540,
+      "y": 1710,
+      "width": 400,
+      "height": 144
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-01",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-01",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-02",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-02",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-03",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-03",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-04",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-04",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-05",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-05",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-06",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-06",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-07",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-07",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-08",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-08",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-09",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-09",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-10",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-10",
+      "toSide": "left",
+      "toEnd": "arrow"
+    }
+  ]
+}

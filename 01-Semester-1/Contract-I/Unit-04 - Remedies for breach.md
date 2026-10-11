@@ -1,38 +1,17 @@
 ---
-type: unit
+type: legacy-unit-shortcut
 semester: 1
-subject: "Contract I"
-status: outline-only
-verification: source-checked
 unit: 4
-tags:
-  - kslu
-  - llb-year-1
+subject: "Contract-I: Law of Contract"
+tags: [kslu, legacy-link]
 ---
-# Unit-04 - Remedies for breach
 
-> [!info] Source
-> **KSLU Appendix VI-A, course section near printed page 5** · [Open original syllabus](https://kslucorner.in/assets/syllabus/kslu-llb-syllabus.pdf).
-> These are study-checklist headings grouped from the syllabus, not complete legal answers.
+# Unit 4 — Breach, damages and quasi-contracts
 
-## Coverage checklist
+> [!note] This unit has been reorganised from the newly uploaded syllabus. This page is retained so existing Obsidian links and older Canvas maps do not break.
 
-- [ ] **Damages and types of damages** — write a verified [[Template - Exam Topic|exam-ready topic note]]
-- [ ] **Remoteness and assessment of damages** — write a verified [[Template - Exam Topic|exam-ready topic note]]
-- [ ] **Quasi-contractual obligations** — write a verified [[Template - Exam Topic|exam-ready topic note]]
+**Open current unit:** [[01-Semester-1/Contract-I/Units/Unit-04/00 - Unit 04 - Breach, damages and quasi-contracts|Unit 4 — Breach, damages and quasi-contracts]]
 
-## Exam questions assigned to this unit
+**Brain Branches:** [[08-Brain-Branches/Syllabus-From-Uploaded-PDF/Contract-I/Unit-04.canvas|Visual unit map]]
 
-- Add links to prior-paper questions here after checking each paper.
-
-## Key legislation and cases
-
-- Add exact sections/articles, leading judgments, and reliable citations.
-
-## Study progress
-
-- [ ] Core principles documented
-- [ ] Current law checked
-- [ ] Two judgments verified
-- [ ] Past-paper questions indexed
-- [ ] Model answer written and reviewed
+**Books:** [[01-Semester-1/Contract-I/00 - Books and Reading|Reading list]]

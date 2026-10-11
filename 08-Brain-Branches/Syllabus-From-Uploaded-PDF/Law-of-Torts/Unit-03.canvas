@@ -1,0 +1,117 @@
+{
+  "nodes": [
+    {
+      "id": "unit",
+      "type": "file",
+      "file": "01-Semester-1/Law-of-Torts/Units/Unit-03/00 - Unit 03 - Negligence, nuisance and liability.md",
+      "x": 0,
+      "y": 237,
+      "width": 390,
+      "height": 180
+    },
+    {
+      "id": "topic-01",
+      "type": "file",
+      "file": "01-Semester-1/Law-of-Torts/Units/Unit-03/01 - Negligence.md",
+      "x": 540,
+      "y": 0,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-02",
+      "type": "file",
+      "file": "01-Semester-1/Law-of-Torts/Units/Unit-03/02 - Nuisance.md",
+      "x": 540,
+      "y": 190,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-03",
+      "type": "file",
+      "file": "01-Semester-1/Law-of-Torts/Units/Unit-03/03 - Absolute liability.md",
+      "x": 540,
+      "y": 380,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-04",
+      "type": "file",
+      "file": "01-Semester-1/Law-of-Torts/Units/Unit-03/04 - Strict liability.md",
+      "x": 540,
+      "y": 570,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-05",
+      "type": "file",
+      "file": "01-Semester-1/Law-of-Torts/Units/Unit-03/05 - Legal remedies and awards.md",
+      "x": 540,
+      "y": 760,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-06",
+      "type": "file",
+      "file": "01-Semester-1/Law-of-Torts/Units/Unit-03/06 - Remoteness of damage.md",
+      "x": 540,
+      "y": 950,
+      "width": 400,
+      "height": 144
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-01",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-01",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-02",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-02",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-03",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-03",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-04",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-04",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-05",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-05",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-06",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-06",
+      "toSide": "left",
+      "toEnd": "arrow"
+    }
+  ]
+}

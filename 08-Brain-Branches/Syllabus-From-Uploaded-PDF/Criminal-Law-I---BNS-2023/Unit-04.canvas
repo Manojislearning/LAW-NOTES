@@ -1,0 +1,168 @@
+{
+  "nodes": [
+    {
+      "id": "unit",
+      "type": "file",
+      "file": "01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-04/00 - Unit 04 - State, elections, public order and justice.md",
+      "x": 0,
+      "y": 380,
+      "width": 390,
+      "height": 180
+    },
+    {
+      "id": "topic-01",
+      "type": "file",
+      "file": "01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-04/01 - Offences against State (BNS sections 147–158).md",
+      "x": 540,
+      "y": 0,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-02",
+      "type": "file",
+      "file": "01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-04/02 - Waging war; sovereignty, unity and integrity of India.md",
+      "x": 540,
+      "y": 190,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-03",
+      "type": "file",
+      "file": "01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-04/03 - Election, coin and currency offences (BNS sections 168–188 as printed).md",
+      "x": 540,
+      "y": 380,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-04",
+      "type": "file",
+      "file": "01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-04/04 - Public tranquillity- unlawful assembly, rioting and affray.md",
+      "x": 540,
+      "y": 570,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-05",
+      "type": "file",
+      "file": "01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-04/05 - Promoting enmity and prejudicial assertions (BNS sections 189–190 as pri.md",
+      "x": 540,
+      "y": 760,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-06",
+      "type": "file",
+      "file": "01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-04/06 - False or fabricated evidence; destruction of evidence; harbouring offend.md",
+      "x": 540,
+      "y": 950,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-07",
+      "type": "file",
+      "file": "01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-04/07 - Public nuisance (BNS sections 270–273).md",
+      "x": 540,
+      "y": 1140,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-08",
+      "type": "file",
+      "file": "01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-04/08 - Mischief and criminal trespass (BNS sections 324–334).md",
+      "x": 540,
+      "y": 1330,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-09",
+      "type": "file",
+      "file": "01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-04/09 - Forgery and property marks (BNS sections 335–344).md",
+      "x": 540,
+      "y": 1520,
+      "width": 400,
+      "height": 144
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-01",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-01",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-02",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-02",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-03",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-03",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-04",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-04",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-05",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-05",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-06",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-06",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-07",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-07",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-08",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-08",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-09",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-09",
+      "toSide": "left",
+      "toEnd": "arrow"
+    }
+  ]
+}

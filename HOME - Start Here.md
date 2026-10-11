@@ -1,17 +1,25 @@
-# KSLU 3-Year LL.B. — First-Year Study Vault
+# KSLU LL.B. Study Vault — Start Here
 
-> [!important] What this contains
-> A **verified syllabus scaffold**, 50 unit checklists, answer-writing templates, a sample set of substantive notes, an Obsidian Canvas, sources and revision workflows. It is **not yet an encyclopedia of finished exam answers**. The syllabus mapping has been checked against the 2018 Appendix VI-A and 2024–25 criminal-law amendment; applicable language papers are not expanded here.
+> [!important] Uploaded syllabus now mapped
+> Semester I has been reorganized from the supplied **13-page updated syllabus PDF** into 5 core subject folders (25 units) and one conditional English paper (5 units). Older substantive topic notes, Semester II and study tools remain in the repository.
 
-## Semester 1
+## Open Semester I
 
-- [[00 - Constitutional Law I]]
-- [[00 - Contract I]]
-- [[00 - Law of Torts]]
-- [[00 - Family Law I - Hindu Law]]
-- [[00 - Criminal Law I - BNS 2023]]
+- [[01-Semester-1/00 - Semester I Syllabus Index|Complete Semester I syllabus]]
+- [[08-Brain-Branches/Syllabus-From-Uploaded-PDF/00 - Semester I Master.canvas|Open master Brain Branches Canvas]]
+- [[10-Books-and-Reading/00 - Reading Library|Prescribed and reference books]]
+- [[06-Statutes-and-Sources/KSLU Semester I - Source and Update Warnings|Source and legal-update warnings]]
 
-## Semester 2
+## Subject entrances
+
+- [[01-Semester-1/Constitutional-Law-I/00 - Constitutional Law I|Constitutional Law – I]]
+- [[01-Semester-1/Contract-I/00 - Contract I|Contract-I: Law of Contract]]
+- [[01-Semester-1/Law-of-Torts/00 - Law of Torts|Law of Torts]]
+- [[01-Semester-1/Family-Law-I---Hindu-Law/00 - Family Law I - Hindu Law|Family Law-I: Hindu Law]]
+- [[01-Semester-1/Criminal-Law-I---BNS-2023/00 - Criminal Law I - BNS 2023|Criminal Law-I: Bharatiya Nyaya Sanhita, 2023]]
+- [[01-Semester-1/English-For-Kannada-Medium/00 - English (for students writing examinations in Kannada)|English (for students writing examinations in Kannada)]] (conditional English paper)
+
+## Semester II — existing notes retained
 
 - [[00 - Constitutional Law II]]
 - [[00 - Contract II - Special Contracts]]
@@ -19,29 +27,16 @@
 - [[00 - Property Law]]
 - [[00 - Family Law II - Mohammedan Law and Succession]]
 
-## Daily study
+## Knowledge and exam tools
 
-1. Open [[Coverage Status]] and select an unchecked unit.
-2. Study the primary Act/Constitution article; consult prescribed commentary.
-3. Copy [[Template - Exam Topic]] into that subject's `Topics` folder.
-4. Write an essay answer, a short answer, and a quick-recall summary.
-5. Verify **each** judgment and legal section; record the source and date.
-6. Attempt a question from [[PYQ Register]], then track errors in [[Answer Writing Method]].
-7. Use [[First-Year Brain Branches]] to navigate sample conceptual connections.
+- [[00-Dashboard/Coverage Status|Coverage tracker]]
+- [[03-Case-Law/Case Law Register|Case-law register]]
+- [[04-Exam-Answers/Answer Writing Method|Answer-writing method]]
+- [[05-Previous-Year-Questions/PYQ Register|Past-paper register]]
+- [[06-Statutes-and-Sources/Current-Law Alerts|Current law alerts]]
+- [[07-Revision/Revision Plan|Revision plan]]
+- [[08-Brain-Branches/First-Year Brain Branches.canvas|Earlier demonstration Canvas (preserved)]]
 
-## Start with real examples
+## Study status
 
-- [[Article 14 - Equality before Law]] (Constitution I)
-- [[Essentials of a Valid Contract]] (Contract I)
-- [[Negligence - Duty Breach Causation]] (Torts)
-
-## Core tools
-
-- [[Answer Writing Method]] — exam answer structures
-- [[Current-Law Alerts]] — statute and syllabus changes
-- [[Source Ledger]] — verification priorities
-- [[Revision Plan]] — spaced review
-- [[Case Law Register]] — authority tracker
-- [[Exam Answer Tracker.base]] — Obsidian Bases topic table
-
-**Sources:** [KSLU syllabus](https://kslucorner.in/syllabus) · [2018 syllabus PDF](https://kslucorner.in/assets/syllabus/kslu-llb-syllabus.pdf) · [2024–25 BNS amendment](https://kslucorner.in/assets/syllabus/kslu-new-criminal-laws.pdf) · [KSLU paper index](https://kslucorner.in/papers/llb).
+**A completed syllabus outline is not a completed answer bank.** The new topic files are structured prompts for legal research and drafting; check statutes and cases before examination use.

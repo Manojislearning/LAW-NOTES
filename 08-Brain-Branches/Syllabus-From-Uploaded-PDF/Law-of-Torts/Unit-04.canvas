@@ -1,0 +1,219 @@
+{
+  "nodes": [
+    {
+      "id": "unit",
+      "type": "file",
+      "file": "01-Semester-1/Law-of-Torts/Units/Unit-04/00 - Unit 04 - Torts against person, rights and property.md",
+      "x": 0,
+      "y": 522,
+      "width": 390,
+      "height": 180
+    },
+    {
+      "id": "topic-01",
+      "type": "file",
+      "file": "01-Semester-1/Law-of-Torts/Units/Unit-04/01 - Assault.md",
+      "x": 540,
+      "y": 0,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-02",
+      "type": "file",
+      "file": "01-Semester-1/Law-of-Torts/Units/Unit-04/02 - Battery.md",
+      "x": 540,
+      "y": 190,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-03",
+      "type": "file",
+      "file": "01-Semester-1/Law-of-Torts/Units/Unit-04/03 - Mayhem.md",
+      "x": 540,
+      "y": 380,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-04",
+      "type": "file",
+      "file": "01-Semester-1/Law-of-Torts/Units/Unit-04/04 - False imprisonment.md",
+      "x": 540,
+      "y": 570,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-05",
+      "type": "file",
+      "file": "01-Semester-1/Law-of-Torts/Units/Unit-04/05 - Libel and slander.md",
+      "x": 540,
+      "y": 760,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-06",
+      "type": "file",
+      "file": "01-Semester-1/Law-of-Torts/Units/Unit-04/06 - Malicious prosecution.md",
+      "x": 540,
+      "y": 950,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-07",
+      "type": "file",
+      "file": "01-Semester-1/Law-of-Torts/Units/Unit-04/07 - Malicious civil action.md",
+      "x": 540,
+      "y": 1140,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-08",
+      "type": "file",
+      "file": "01-Semester-1/Law-of-Torts/Units/Unit-04/08 - Abuse of legal process.md",
+      "x": 540,
+      "y": 1330,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-09",
+      "type": "file",
+      "file": "01-Semester-1/Law-of-Torts/Units/Unit-04/09 - Marital rights and parental rights.md",
+      "x": 540,
+      "y": 1520,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-10",
+      "type": "file",
+      "file": "01-Semester-1/Law-of-Torts/Units/Unit-04/10 - Rights to service and contractual rights.md",
+      "x": 540,
+      "y": 1710,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-11",
+      "type": "file",
+      "file": "01-Semester-1/Law-of-Torts/Units/Unit-04/11 - Intimidation and conspiracy.md",
+      "x": 540,
+      "y": 1900,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-12",
+      "type": "file",
+      "file": "01-Semester-1/Law-of-Torts/Units/Unit-04/12 - Torts against property.md",
+      "x": 540,
+      "y": 2090,
+      "width": 400,
+      "height": 144
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-01",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-01",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-02",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-02",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-03",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-03",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-04",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-04",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-05",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-05",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-06",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-06",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-07",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-07",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-08",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-08",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-09",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-09",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-10",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-10",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-11",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-11",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-12",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-12",
+      "toSide": "left",
+      "toEnd": "arrow"
+    }
+  ]
+}

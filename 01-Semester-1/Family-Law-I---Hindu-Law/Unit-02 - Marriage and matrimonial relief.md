@@ -1,40 +1,17 @@
 ---
-type: unit
+type: legacy-unit-shortcut
 semester: 1
-subject: "Family Law I - Hindu Law"
-status: outline-only
-verification: source-checked
 unit: 2
-tags:
-  - kslu
-  - llb-year-1
+subject: "Family Law-I: Hindu Law"
+tags: [kslu, legacy-link]
 ---
-# Unit-02 - Marriage and matrimonial relief
 
-> [!info] Source
-> **KSLU Appendix VI-A, course section near printed page 10** · [Open original syllabus](https://kslucorner.in/assets/syllabus/kslu-llb-syllabus.pdf).
-> These are study-checklist headings grouped from the syllabus, not complete legal answers.
+# Unit 2 — Marriage and matrimonial remedies
 
-## Coverage checklist
+> [!note] This unit has been reorganised from the newly uploaded syllabus. This page is retained so existing Obsidian links and older Canvas maps do not break.
 
-- [ ] **Hindu Marriage Act, 1955** — write a verified [[Template - Exam Topic|exam-ready topic note]]
-- [ ] **Marriage, void and voidable marriages** — write a verified [[Template - Exam Topic|exam-ready topic note]]
-- [ ] **Divorce and other matrimonial remedies** — write a verified [[Template - Exam Topic|exam-ready topic note]]
-- [ ] **Maintenance and alimony** — write a verified [[Template - Exam Topic|exam-ready topic note]]
-- [ ] **Dowry prohibition** — write a verified [[Template - Exam Topic|exam-ready topic note]]
+**Open current unit:** [[01-Semester-1/Family-Law-I---Hindu-Law/Units/Unit-02/00 - Unit 02 - Marriage and matrimonial remedies|Unit 2 — Marriage and matrimonial remedies]]
 
-## Exam questions assigned to this unit
+**Brain Branches:** [[08-Brain-Branches/Syllabus-From-Uploaded-PDF/Family-Law-I---Hindu-Law/Unit-02.canvas|Visual unit map]]
 
-- Add links to prior-paper questions here after checking each paper.
-
-## Key legislation and cases
-
-- Add exact sections/articles, leading judgments, and reliable citations.
-
-## Study progress
-
-- [ ] Core principles documented
-- [ ] Current law checked
-- [ ] Two judgments verified
-- [ ] Past-paper questions indexed
-- [ ] Model answer written and reviewed
+**Books:** [[01-Semester-1/Family-Law-I---Hindu-Law/00 - Books and Reading|Reading list]]

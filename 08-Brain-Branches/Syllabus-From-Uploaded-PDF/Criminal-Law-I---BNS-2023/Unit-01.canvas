@@ -1,0 +1,202 @@
+{
+  "nodes": [
+    {
+      "id": "unit",
+      "type": "file",
+      "file": "01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-01/00 - Unit 01 - Principles, interpretation and general exceptions.md",
+      "x": 0,
+      "y": 475,
+      "width": 390,
+      "height": 180
+    },
+    {
+      "id": "topic-01",
+      "type": "file",
+      "file": "01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-01/01 - Conceptions of crime and general principles.md",
+      "x": 540,
+      "y": 0,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-02",
+      "type": "file",
+      "file": "01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-01/02 - Crime distinguished from morality and other wrongs.md",
+      "x": 540,
+      "y": 190,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-03",
+      "type": "file",
+      "file": "01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-01/03 - Actus reus and mens rea; related maxims.md",
+      "x": 540,
+      "y": 380,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-04",
+      "type": "file",
+      "file": "01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-01/04 - Mistake, intoxication, compulsion and legally abnormal person.md",
+      "x": 540,
+      "y": 570,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-05",
+      "type": "file",
+      "file": "01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-01/05 - Parties to crime and state obligation to detect-punish.md",
+      "x": 540,
+      "y": 760,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-06",
+      "type": "file",
+      "file": "01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-01/06 - BNS 2023- history, extent and operation.md",
+      "x": 540,
+      "y": 950,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-07",
+      "type": "file",
+      "file": "01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-01/07 - BNS sections 2–3- definitions and general explanations.md",
+      "x": 540,
+      "y": 1140,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-08",
+      "type": "file",
+      "file": "01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-01/08 - Trends towards gender neutrality.md",
+      "x": 540,
+      "y": 1330,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-09",
+      "type": "file",
+      "file": "01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-01/09 - BNS sections 4–13- punishments, community service, commutation, fine and.md",
+      "x": 540,
+      "y": 1520,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-10",
+      "type": "file",
+      "file": "01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-01/10 - Solitary confinement.md",
+      "x": 540,
+      "y": 1710,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-11",
+      "type": "file",
+      "file": "01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-01/11 - BNS sections 14–44- general exceptions.md",
+      "x": 540,
+      "y": 1900,
+      "width": 400,
+      "height": 144
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-01",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-01",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-02",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-02",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-03",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-03",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-04",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-04",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-05",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-05",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-06",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-06",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-07",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-07",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-08",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-08",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-09",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-09",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-10",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-10",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-11",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-11",
+      "toSide": "left",
+      "toEnd": "arrow"
+    }
+  ]
+}

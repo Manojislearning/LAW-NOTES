@@ -1,0 +1,32 @@
+{
+  "nodes": [
+    {
+      "id": "unit",
+      "type": "file",
+      "file": "01-Semester-1/English-For-Kannada-Medium/Units/Unit-01/00 - Unit 01 - Law and Lawyers by M. K. Gandhi.md",
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 180
+    },
+    {
+      "id": "topic-01",
+      "type": "file",
+      "file": "01-Semester-1/English-For-Kannada-Medium/Units/Unit-01/01 - Law and Lawyers — M. K. Gandhi.md",
+      "x": 540,
+      "y": 0,
+      "width": 400,
+      "height": 144
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-01",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-01",
+      "toSide": "left",
+      "toEnd": "arrow"
+    }
+  ]
+}

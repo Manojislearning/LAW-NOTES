@@ -1,39 +1,17 @@
 ---
-type: unit
+type: legacy-unit-shortcut
 semester: 1
-subject: "Constitutional Law I"
-status: outline-only
-verification: source-checked
 unit: 2
-tags:
-  - kslu
-  - llb-year-1
+subject: "Constitutional Law – I"
+tags: [kslu, legacy-link]
 ---
-# Unit-02 - State, law and equality
 
-> [!info] Source
-> **KSLU Appendix VI-A, course section near printed page 4** · [Open original syllabus](https://kslucorner.in/assets/syllabus/kslu-llb-syllabus.pdf).
-> These are study-checklist headings grouped from the syllabus, not complete legal answers.
+# Unit 2 — State, law, judicial review and equality
 
-## Coverage checklist
+> [!note] This unit has been reorganised from the newly uploaded syllabus. This page is retained so existing Obsidian links and older Canvas maps do not break.
 
-- [ ] **Article 12: definition of State and state action** — write a verified [[Template - Exam Topic|exam-ready topic note]]
-- [ ] **Article 13: pre- and post-Constitutional laws** — write a verified [[Template - Exam Topic|exam-ready topic note]]
-- [ ] **Severability and eclipse** — write a verified [[Template - Exam Topic|exam-ready topic note]]
-- [ ] **Article 14: equality before law and equal protection** — write a verified [[Template - Exam Topic|exam-ready topic note]]
+**Open current unit:** [[01-Semester-1/Constitutional-Law-I/Units/Unit-02/00 - Unit 02 - State, law, judicial review and equality|Unit 2 — State, law, judicial review and equality]]
 
-## Exam questions assigned to this unit
+**Brain Branches:** [[08-Brain-Branches/Syllabus-From-Uploaded-PDF/Constitutional-Law-I/Unit-02.canvas|Visual unit map]]
 
-- Add links to prior-paper questions here after checking each paper.
-
-## Key legislation and cases
-
-- Add exact sections/articles, leading judgments, and reliable citations.
-
-## Study progress
-
-- [ ] Core principles documented
-- [ ] Current law checked
-- [ ] Two judgments verified
-- [ ] Past-paper questions indexed
-- [ ] Model answer written and reviewed
+**Books:** [[01-Semester-1/Constitutional-Law-I/00 - Books and Reading|Reading list]]

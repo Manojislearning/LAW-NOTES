@@ -1,0 +1,151 @@
+{
+  "nodes": [
+    {
+      "id": "unit",
+      "type": "file",
+      "file": "01-Semester-1/Constitutional-Law-I/Units/Unit-03/00 - Unit 03 - Protective discrimination and freedom.md",
+      "x": 0,
+      "y": 332,
+      "width": 390,
+      "height": 180
+    },
+    {
+      "id": "topic-01",
+      "type": "file",
+      "file": "01-Semester-1/Constitutional-Law-I/Units/Unit-03/01 - Protective discrimination and social justice under Articles 15 and 16.md",
+      "x": 540,
+      "y": 0,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-02",
+      "type": "file",
+      "file": "01-Semester-1/Constitutional-Law-I/Units/Unit-03/02 - New judicial trends on social justice.md",
+      "x": 540,
+      "y": 190,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-03",
+      "type": "file",
+      "file": "01-Semester-1/Constitutional-Law-I/Units/Unit-03/03 - Untouchability under Article 17.md",
+      "x": 540,
+      "y": 380,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-04",
+      "type": "file",
+      "file": "01-Semester-1/Constitutional-Law-I/Units/Unit-03/04 - Freedom of speech and expression.md",
+      "x": 540,
+      "y": 570,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-05",
+      "type": "file",
+      "file": "01-Semester-1/Constitutional-Law-I/Units/Unit-03/05 - Freedom of assembly and association.md",
+      "x": 540,
+      "y": 760,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-06",
+      "type": "file",
+      "file": "01-Semester-1/Constitutional-Law-I/Units/Unit-03/06 - Freedom of movement and residence.md",
+      "x": 540,
+      "y": 950,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-07",
+      "type": "file",
+      "file": "01-Semester-1/Constitutional-Law-I/Units/Unit-03/07 - Freedom of profession, occupation, trade or business.md",
+      "x": 540,
+      "y": 1140,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-08",
+      "type": "file",
+      "file": "01-Semester-1/Constitutional-Law-I/Units/Unit-03/08 - Reasonable restrictions on freedoms.md",
+      "x": 540,
+      "y": 1330,
+      "width": 400,
+      "height": 144
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-01",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-01",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-02",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-02",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-03",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-03",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-04",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-04",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-05",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-05",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-06",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-06",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-07",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-07",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-08",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-08",
+      "toSide": "left",
+      "toEnd": "arrow"
+    }
+  ]
+}

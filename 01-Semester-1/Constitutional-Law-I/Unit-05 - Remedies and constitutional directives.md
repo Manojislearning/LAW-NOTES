@@ -1,40 +1,17 @@
 ---
-type: unit
+type: legacy-unit-shortcut
 semester: 1
-subject: "Constitutional Law I"
-status: outline-only
-verification: source-checked
 unit: 5
-tags:
-  - kslu
-  - llb-year-1
+subject: "Constitutional Law – I"
+tags: [kslu, legacy-link]
 ---
-# Unit-05 - Remedies and constitutional directives
 
-> [!info] Source
-> **KSLU Appendix VI-A, course section near printed page 4** · [Open original syllabus](https://kslucorner.in/assets/syllabus/kslu-llb-syllabus.pdf).
-> These are study-checklist headings grouped from the syllabus, not complete legal answers.
+# Unit 5 — Minority rights, remedies and constitutional directives
 
-## Coverage checklist
+> [!note] This unit has been reorganised from the newly uploaded syllabus. This page is retained so existing Obsidian links and older Canvas maps do not break.
 
-- [ ] **Cultural and educational rights of minorities** — write a verified [[Template - Exam Topic|exam-ready topic note]]
-- [ ] **Articles 32 and 226: constitutional remedies and writs** — write a verified [[Template - Exam Topic|exam-ready topic note]]
-- [ ] **Article 300A: right to property** — write a verified [[Template - Exam Topic|exam-ready topic note]]
-- [ ] **Directive Principles of State Policy** — write a verified [[Template - Exam Topic|exam-ready topic note]]
-- [ ] **Fundamental Duties and interrelationship with Fundamental Rights** — write a verified [[Template - Exam Topic|exam-ready topic note]]
+**Open current unit:** [[01-Semester-1/Constitutional-Law-I/Units/Unit-05/00 - Unit 05 - Minority rights, remedies and constitutional directives|Unit 5 — Minority rights, remedies and constitutional directives]]
 
-## Exam questions assigned to this unit
+**Brain Branches:** [[08-Brain-Branches/Syllabus-From-Uploaded-PDF/Constitutional-Law-I/Unit-05.canvas|Visual unit map]]
 
-- Add links to prior-paper questions here after checking each paper.
-
-## Key legislation and cases
-
-- Add exact sections/articles, leading judgments, and reliable citations.
-
-## Study progress
-
-- [ ] Core principles documented
-- [ ] Current law checked
-- [ ] Two judgments verified
-- [ ] Past-paper questions indexed
-- [ ] Model answer written and reviewed
+**Books:** [[01-Semester-1/Constitutional-Law-I/00 - Books and Reading|Reading list]]

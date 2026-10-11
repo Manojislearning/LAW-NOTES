@@ -1,0 +1,117 @@
+{
+  "nodes": [
+    {
+      "id": "subject",
+      "type": "file",
+      "file": "01-Semester-1/English-For-Kannada-Medium/00 - English (for students writing examinations in Kannada).md",
+      "x": 0,
+      "y": 500,
+      "width": 420,
+      "height": 190
+    },
+    {
+      "id": "books",
+      "type": "file",
+      "file": "01-Semester-1/English-For-Kannada-Medium/00 - Books and Reading.md",
+      "x": 1080,
+      "y": 1080,
+      "width": 440,
+      "height": 158
+    },
+    {
+      "id": "u-1",
+      "type": "file",
+      "file": "01-Semester-1/English-For-Kannada-Medium/Units/Unit-01/00 - Unit 01 - Law and Lawyers by M. K. Gandhi.md",
+      "x": 620,
+      "y": 0,
+      "width": 400,
+      "height": 160
+    },
+    {
+      "id": "u-2",
+      "type": "file",
+      "file": "01-Semester-1/English-For-Kannada-Medium/Units/Unit-02/00 - Unit 02 - English grammar and legal vocabulary.md",
+      "x": 620,
+      "y": 260,
+      "width": 400,
+      "height": 160
+    },
+    {
+      "id": "u-3",
+      "type": "file",
+      "file": "01-Semester-1/English-For-Kannada-Medium/Units/Unit-03/00 - Unit 03 - Applied writing and comprehension.md",
+      "x": 620,
+      "y": 520,
+      "width": 400,
+      "height": 160
+    },
+    {
+      "id": "u-4",
+      "type": "file",
+      "file": "01-Semester-1/English-For-Kannada-Medium/Units/Unit-04/00 - Unit 04 - Professional legal writing.md",
+      "x": 620,
+      "y": 780,
+      "width": 400,
+      "height": 160
+    },
+    {
+      "id": "u-5",
+      "type": "file",
+      "file": "01-Semester-1/English-For-Kannada-Medium/Units/Unit-05/00 - Unit 05 - Legal translation.md",
+      "x": 620,
+      "y": 1040,
+      "width": 400,
+      "height": 160
+    }
+  ],
+  "edges": [
+    {
+      "id": "books-edge",
+      "fromNode": "subject",
+      "fromSide": "right",
+      "toNode": "books",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "u-e-1",
+      "fromNode": "subject",
+      "fromSide": "right",
+      "toNode": "u-1",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "u-e-2",
+      "fromNode": "subject",
+      "fromSide": "right",
+      "toNode": "u-2",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "u-e-3",
+      "fromNode": "subject",
+      "fromSide": "right",
+      "toNode": "u-3",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "u-e-4",
+      "fromNode": "subject",
+      "fromSide": "right",
+      "toNode": "u-4",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "u-e-5",
+      "fromNode": "subject",
+      "fromSide": "right",
+      "toNode": "u-5",
+      "toSide": "left",
+      "toEnd": "arrow"
+    }
+  ]
+}

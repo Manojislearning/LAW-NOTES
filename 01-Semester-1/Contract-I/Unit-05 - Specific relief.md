@@ -1,40 +1,17 @@
 ---
-type: unit
+type: legacy-unit-shortcut
 semester: 1
-subject: "Contract I"
-status: outline-only
-verification: source-checked
 unit: 5
-tags:
-  - kslu
-  - llb-year-1
+subject: "Contract-I: Law of Contract"
+tags: [kslu, legacy-link]
 ---
-# Unit-05 - Specific relief
 
-> [!info] Source
-> **KSLU Appendix VI-A, course section near printed page 5** · [Open original syllabus](https://kslucorner.in/assets/syllabus/kslu-llb-syllabus.pdf).
-> These are study-checklist headings grouped from the syllabus, not complete legal answers.
+# Unit 5 — Specific Relief Act and injunctions
 
-## Coverage checklist
+> [!note] This unit has been reorganised from the newly uploaded syllabus. This page is retained so existing Obsidian links and older Canvas maps do not break.
 
-- [ ] **Specific Relief Act: possession remedies** — write a verified [[Template - Exam Topic|exam-ready topic note]]
-- [ ] **Specific performance and limitations** — write a verified [[Template - Exam Topic|exam-ready topic note]]
-- [ ] **Rectification and cancellation** — write a verified [[Template - Exam Topic|exam-ready topic note]]
-- [ ] **Declarations** — write a verified [[Template - Exam Topic|exam-ready topic note]]
-- [ ] **Temporary, perpetual and mandatory injunctions** — write a verified [[Template - Exam Topic|exam-ready topic note]]
+**Open current unit:** [[01-Semester-1/Contract-I/Units/Unit-05/00 - Unit 05 - Specific Relief Act and injunctions|Unit 5 — Specific Relief Act and injunctions]]
 
-## Exam questions assigned to this unit
+**Brain Branches:** [[08-Brain-Branches/Syllabus-From-Uploaded-PDF/Contract-I/Unit-05.canvas|Visual unit map]]
 
-- Add links to prior-paper questions here after checking each paper.
-
-## Key legislation and cases
-
-- Add exact sections/articles, leading judgments, and reliable citations.
-
-## Study progress
-
-- [ ] Core principles documented
-- [ ] Current law checked
-- [ ] Two judgments verified
-- [ ] Past-paper questions indexed
-- [ ] Model answer written and reviewed
+**Books:** [[01-Semester-1/Contract-I/00 - Books and Reading|Reading list]]

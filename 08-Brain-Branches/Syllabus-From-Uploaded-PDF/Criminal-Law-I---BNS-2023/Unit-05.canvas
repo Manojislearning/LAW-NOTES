@@ -1,0 +1,168 @@
+{
+  "nodes": [
+    {
+      "id": "unit",
+      "type": "file",
+      "file": "01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-05/00 - Unit 05 - Property offences, intimidation and defamation.md",
+      "x": 0,
+      "y": 380,
+      "width": 390,
+      "height": 180
+    },
+    {
+      "id": "topic-01",
+      "type": "file",
+      "file": "01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-05/01 - Theft and snatching (BNS sections 303–307).md",
+      "x": 540,
+      "y": 0,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-02",
+      "type": "file",
+      "file": "01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-05/02 - Extortion (BNS section 308).md",
+      "x": 540,
+      "y": 190,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-03",
+      "type": "file",
+      "file": "01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-05/03 - Robbery (BNS sections 309 and 313 as printed).md",
+      "x": 540,
+      "y": 380,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-04",
+      "type": "file",
+      "file": "01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-05/04 - Dacoity (BNS sections 310–312).md",
+      "x": 540,
+      "y": 570,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-05",
+      "type": "file",
+      "file": "01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-05/05 - Criminal misappropriation (BNS sections 314–315).md",
+      "x": 540,
+      "y": 760,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-06",
+      "type": "file",
+      "file": "01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-05/06 - Criminal breach of trust (BNS section 316).md",
+      "x": 540,
+      "y": 950,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-07",
+      "type": "file",
+      "file": "01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-05/07 - Receiving stolen property (BNS section 317).md",
+      "x": 540,
+      "y": 1140,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-08",
+      "type": "file",
+      "file": "01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-05/08 - Cheating (BNS sections 318–319).md",
+      "x": 540,
+      "y": 1330,
+      "width": 400,
+      "height": 144
+    },
+    {
+      "id": "topic-09",
+      "type": "file",
+      "file": "01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-05/09 - Criminal intimidation, insult, annoyance and defamation (BNS sections 35.md",
+      "x": 540,
+      "y": 1520,
+      "width": 400,
+      "height": 144
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-01",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-01",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-02",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-02",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-03",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-03",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-04",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-04",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-05",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-05",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-06",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-06",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-07",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-07",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-08",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-08",
+      "toSide": "left",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge-09",
+      "fromNode": "unit",
+      "fromSide": "right",
+      "toNode": "topic-09",
+      "toSide": "left",
+      "toEnd": "arrow"
+    }
+  ]
+}

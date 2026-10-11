@@ -1,40 +1,17 @@
 ---
-type: unit
+type: legacy-unit-shortcut
 semester: 1
-subject: "Law of Torts"
-status: outline-only
-verification: source-checked
 unit: 4
-tags:
-  - kslu
-  - llb-year-1
+subject: "Law of Torts"
+tags: [kslu, legacy-link]
 ---
-# Unit-04 - Torts against person and property
 
-> [!info] Source
-> **KSLU Appendix VI-A, course section near printed page 8** · [Open original syllabus](https://kslucorner.in/assets/syllabus/kslu-llb-syllabus.pdf).
-> These are study-checklist headings grouped from the syllabus, not complete legal answers.
+# Unit 4 — Torts against person, rights and property
 
-## Coverage checklist
+> [!note] This unit has been reorganised from the newly uploaded syllabus. This page is retained so existing Obsidian links and older Canvas maps do not break.
 
-- [ ] **Assault, battery, mayhem and false imprisonment** — write a verified [[Template - Exam Topic|exam-ready topic note]]
-- [ ] **Defamation: libel and slander** — write a verified [[Template - Exam Topic|exam-ready topic note]]
-- [ ] **Malicious prosecution and abuse of legal process** — write a verified [[Template - Exam Topic|exam-ready topic note]]
-- [ ] **Interference with domestic and other rights** — write a verified [[Template - Exam Topic|exam-ready topic note]]
-- [ ] **Torts against property** — write a verified [[Template - Exam Topic|exam-ready topic note]]
+**Open current unit:** [[01-Semester-1/Law-of-Torts/Units/Unit-04/00 - Unit 04 - Torts against person, rights and property|Unit 4 — Torts against person, rights and property]]
 
-## Exam questions assigned to this unit
+**Brain Branches:** [[08-Brain-Branches/Syllabus-From-Uploaded-PDF/Law-of-Torts/Unit-04.canvas|Visual unit map]]
 
-- Add links to prior-paper questions here after checking each paper.
-
-## Key legislation and cases
-
-- Add exact sections/articles, leading judgments, and reliable citations.
-
-## Study progress
-
-- [ ] Core principles documented
-- [ ] Current law checked
-- [ ] Two judgments verified
-- [ ] Past-paper questions indexed
-- [ ] Model answer written and reviewed
+**Books:** [[01-Semester-1/Law-of-Torts/00 - Books and Reading|Reading list]]
