@@ -24,4 +24,4 @@ tags: [law-notes, units]
 
 - [[01-Semester-1/English-For-Kannada-Medium/00 - English (for students writing examinations in Kannada)|English]]
 - [[01-Semester-1/English-For-Kannada-Medium/00 - Books and Reading|Books]]
-- [[08-Brain-Branches/Syllabus-From-Uploaded-PDF/English-For-Kannada-Medium/Unit-02|Brain Map]]
+- [[08-Brain-Branches/Notes-Maps/English-For-Kannada-Medium/Unit-02|Brain Map]]

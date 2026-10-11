@@ -17,14 +17,14 @@ tags: [law-notes]
 ## Semester II
 
 - [[02-Semester-2/Constitutional-Law-II/00 - Constitutional Law II|Constitutional Law II]]
-- [[02-Semester-2/Contract-II/00 - Contract II - Special Contracts|Contract II]]
+- [[02-Semester-2/Contract-II---Special-Contracts/00 - Contract II - Special Contracts|Contract II]]
 - [[02-Semester-2/Labour-Law-I/00 - Labour Law I|Labour Law I]]
 - [[02-Semester-2/Property-Law/00 - Property Law|Property Law]]
 - [[02-Semester-2/Family-Law-II---Mohammedan-Law-and-Succession/00 - Family Law II - Mohammedan Law and Succession|Family Law II]]
 
 ## Maps & Reading
 
-- [[08-Brain-Branches/Syllabus-From-Uploaded-PDF/00 - Semester I Master|Brain Map]]
+- [[08-Brain-Branches/Notes-Maps/00 - Semester I Master|Brain Map]]
 - [[10-Books-and-Reading/00 - Reading Library|Books]]
 - [[03-Case-Law/Case Law Register|Cases]]
 - [[05-Previous-Year-Questions/PYQ Register|Exam Papers]]

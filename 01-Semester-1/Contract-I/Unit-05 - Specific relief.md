@@ -12,6 +12,6 @@ tags: [kslu, legacy-link]
 
 **Open current unit:** [[01-Semester-1/Contract-I/Units/Unit-05/00 - Unit 05 - Specific Relief Act and injunctions|Unit 5 — Specific Relief Act and injunctions]]
 
-**Brain Branches:** [[08-Brain-Branches/Syllabus-From-Uploaded-PDF/Contract-I/Unit-05.canvas|Visual unit map]]
+**Brain Branches:** [[08-Brain-Branches/Notes-Maps/Contract-I/Unit-05.canvas|Visual unit map]]
 
 **Books:** [[01-Semester-1/Contract-I/00 - Books and Reading|Reading list]]

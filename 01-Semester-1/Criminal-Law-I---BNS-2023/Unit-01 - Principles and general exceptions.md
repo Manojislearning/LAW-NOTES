@@ -12,6 +12,6 @@ tags: [kslu, legacy-link]
 
 **Open current unit:** [[01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-01/00 - Unit 01 - Principles, interpretation and general exceptions|Unit 1 — Principles, interpretation and general exceptions]]
 
-**Brain Branches:** [[08-Brain-Branches/Syllabus-From-Uploaded-PDF/Criminal-Law-I---BNS-2023/Unit-01.canvas|Visual unit map]]
+**Brain Branches:** [[08-Brain-Branches/Notes-Maps/Criminal-Law-I---BNS-2023/Unit-01.canvas|Visual unit map]]
 
 **Books:** [[01-Semester-1/Criminal-Law-I---BNS-2023/00 - Books and Reading|Reading list]]

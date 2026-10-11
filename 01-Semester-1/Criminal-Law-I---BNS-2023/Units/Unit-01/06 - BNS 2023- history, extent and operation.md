@@ -1,46 +1,23 @@
 ---
-type: syllabus-topic
-subject: "Criminal Law-I: Bharatiya Nyaya Sanhita, 2023"
-unit: 1
+type: note
 semester: 1
-status: syllabus-heading-only
-verification: requires-primary-law-and-book-check
-source_page: 9
-source_document: "KSLU LL.B Syllabus Updated one(1).pdf"
-tags: [kslu, semester-1, unit-topic, brain-branches]
+unit: 1
+subject: "Criminal Law-I: Bharatiya Nyaya Sanhita, 2023"
+status: outline
+tags: [law-notes, topics]
 ---
 
 # BNS 2023: history, extent and operation
 
-**Part of:** [[01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-01/00 - Unit 01 - Principles, interpretation and general exceptions|Unit 1 — Principles, interpretation and general exceptions]]  
-**Course:** [[01-Semester-1/Criminal-Law-I---BNS-2023/00 - Criminal Law I - BNS 2023|Criminal Law-I: Bharatiya Nyaya Sanhita, 2023]]  
-**Books:** [[01-Semester-1/Criminal-Law-I---BNS-2023/00 - Books and Reading|Prescribed and reference books]]  
-**Visual map:** [[08-Brain-Branches/Syllabus-From-Uploaded-PDF/Criminal-Law-I---BNS-2023/Unit-01.canvas|Unit 1 branches]]  
+## Key terms
 
-## Syllabus heading
+- BNS 2023
+- history
+- extent
+- operation
 
-- BNS 2023: history, extent and operation
+## Related
 
-## Study note
-
-> [!important] Syllabus-only scaffold
-> The uploaded document names this topic but does **not** provide a textbook explanation, statutory analysis or judicial holdings. Add researched content below; do not treat this page as an exam-ready answer.
-
-### Exam-answer preparation
-
-- [ ] Meaning, definition and key rule (verify against the applicable statute)
-- [ ] Essential elements, conditions or legal tests
-- [ ] Exceptions, limitations or contrasting doctrines
-- [ ] Relevant provisions with current numbering checked
-- [ ] Leading decisions with court, year and ratio verified
-- [ ] Short answer, 10-mark answer and 15-mark answer
-
-
-## My verified notes
-
-_Add referenced content here._
-
-## Authorities and page references
-
-- **Primary source:** _to be verified_
-- **Prescribed text and page:** _to be filled_
+- [[01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-01/00 - Unit 01 - Principles, interpretation and general exceptions|Unit 1]]
+- [[01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-01/05 - Parties to crime and state obligation to detect-punish|Previous topic]]
+- [[01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-01/07 - BNS sections 2–3- definitions and general explanations|Next topic]]

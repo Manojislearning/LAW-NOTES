@@ -12,6 +12,6 @@ tags: [kslu, legacy-link]
 
 **Open current unit:** [[01-Semester-1/Law-of-Torts/Units/Unit-02/00 - Unit 02 - General defences and vicarious liability|Unit 2 — General defences and vicarious liability]]
 
-**Brain Branches:** [[08-Brain-Branches/Syllabus-From-Uploaded-PDF/Law-of-Torts/Unit-02.canvas|Visual unit map]]
+**Brain Branches:** [[08-Brain-Branches/Notes-Maps/Law-of-Torts/Unit-02.canvas|Visual unit map]]
 
 **Books:** [[01-Semester-1/Law-of-Torts/00 - Books and Reading|Reading list]]

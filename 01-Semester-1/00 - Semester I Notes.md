@@ -17,5 +17,5 @@ tags: [law-notes, semester-1]
 
 ## Maps & Books
 
-- [[08-Brain-Branches/Syllabus-From-Uploaded-PDF/00 - Semester I Master|Full Brain Map]]
+- [[08-Brain-Branches/Notes-Maps/00 - Semester I Master|Full Brain Map]]
 - [[10-Books-and-Reading/00 - Reading Library|Books]]

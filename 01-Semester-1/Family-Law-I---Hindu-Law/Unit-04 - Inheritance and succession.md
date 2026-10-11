@@ -12,6 +12,6 @@ tags: [kslu, legacy-link]
 
 **Open current unit:** [[01-Semester-1/Family-Law-I---Hindu-Law/Units/Unit-04/00 - Unit 04 - Inheritance, succession and wills|Unit 4 — Inheritance, succession and wills]]
 
-**Brain Branches:** [[08-Brain-Branches/Syllabus-From-Uploaded-PDF/Family-Law-I---Hindu-Law/Unit-04.canvas|Visual unit map]]
+**Brain Branches:** [[08-Brain-Branches/Notes-Maps/Family-Law-I---Hindu-Law/Unit-04.canvas|Visual unit map]]
 
 **Books:** [[01-Semester-1/Family-Law-I---Hindu-Law/00 - Books and Reading|Reading list]]

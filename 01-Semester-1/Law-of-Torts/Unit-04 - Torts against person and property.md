@@ -12,6 +12,6 @@ tags: [kslu, legacy-link]
 
 **Open current unit:** [[01-Semester-1/Law-of-Torts/Units/Unit-04/00 - Unit 04 - Torts against person, rights and property|Unit 4 — Torts against person, rights and property]]
 
-**Brain Branches:** [[08-Brain-Branches/Syllabus-From-Uploaded-PDF/Law-of-Torts/Unit-04.canvas|Visual unit map]]
+**Brain Branches:** [[08-Brain-Branches/Notes-Maps/Law-of-Torts/Unit-04.canvas|Visual unit map]]
 
 **Books:** [[01-Semester-1/Law-of-Torts/00 - Books and Reading|Reading list]]

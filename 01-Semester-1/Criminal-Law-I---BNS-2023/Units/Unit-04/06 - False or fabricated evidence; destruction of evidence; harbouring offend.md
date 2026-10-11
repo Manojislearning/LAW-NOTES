@@ -1,46 +1,21 @@
 ---
-type: syllabus-topic
-subject: "Criminal Law-I: Bharatiya Nyaya Sanhita, 2023"
-unit: 4
+type: note
 semester: 1
-status: syllabus-heading-only
-verification: requires-primary-law-and-book-check
-source_page: 10
-source_document: "KSLU LL.B Syllabus Updated one(1).pdf"
-tags: [kslu, semester-1, unit-topic, brain-branches]
+unit: 4
+subject: "Criminal Law-I: Bharatiya Nyaya Sanhita, 2023"
+status: outline
+tags: [law-notes, topics]
 ---
 
 # False or fabricated evidence; destruction of evidence; harbouring offender (BNS sections 227–238)
 
-**Part of:** [[01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-04/00 - Unit 04 - State, elections, public order and justice|Unit 4 — State, elections, public order and justice]]  
-**Course:** [[01-Semester-1/Criminal-Law-I---BNS-2023/00 - Criminal Law I - BNS 2023|Criminal Law-I: Bharatiya Nyaya Sanhita, 2023]]  
-**Books:** [[01-Semester-1/Criminal-Law-I---BNS-2023/00 - Books and Reading|Prescribed and reference books]]  
-**Visual map:** [[08-Brain-Branches/Syllabus-From-Uploaded-PDF/Criminal-Law-I---BNS-2023/Unit-04.canvas|Unit 4 branches]]  
+## Key terms
 
-## Syllabus heading
+- False
+- fabricated evidence; destruction of evidence; harbouring offender (BNS sections 227–238)
 
-- False or fabricated evidence; destruction of evidence; harbouring offender (BNS sections 227–238)
+## Related
 
-## Study note
-
-> [!important] Syllabus-only scaffold
-> The uploaded document names this topic but does **not** provide a textbook explanation, statutory analysis or judicial holdings. Add researched content below; do not treat this page as an exam-ready answer.
-
-### Exam-answer preparation
-
-- [ ] Meaning, definition and key rule (verify against the applicable statute)
-- [ ] Essential elements, conditions or legal tests
-- [ ] Exceptions, limitations or contrasting doctrines
-- [ ] Relevant provisions with current numbering checked
-- [ ] Leading decisions with court, year and ratio verified
-- [ ] Short answer, 10-mark answer and 15-mark answer
-
-
-## My verified notes
-
-_Add referenced content here._
-
-## Authorities and page references
-
-- **Primary source:** _to be verified_
-- **Prescribed text and page:** _to be filled_
+- [[01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-04/00 - Unit 04 - State, elections, public order and justice|Unit 4]]
+- [[01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-04/05 - Promoting enmity and prejudicial assertions (BNS sections 189–190 as pri|Previous topic]]
+- [[01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-04/07 - Public nuisance (BNS sections 270–273)|Next topic]]

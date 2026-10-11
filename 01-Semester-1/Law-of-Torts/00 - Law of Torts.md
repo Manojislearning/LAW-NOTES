@@ -18,5 +18,5 @@ tags: [law-notes, semester-1]
 ## Reference
 
 - [[01-Semester-1/Law-of-Torts/00 - Books and Reading|Books]]
-- [[08-Brain-Branches/Syllabus-From-Uploaded-PDF/Law-of-Torts/00 - Subject Branches|Brain Map]]
+- [[08-Brain-Branches/Notes-Maps/Law-of-Torts/00 - Subject Branches|Brain Map]]
 - [[01-Semester-1/00 - Semester I Notes|Semester I]]

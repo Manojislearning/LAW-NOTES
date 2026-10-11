@@ -12,6 +12,6 @@ tags: [kslu, legacy-link]
 
 **Open current unit:** [[01-Semester-1/Constitutional-Law-I/Units/Unit-05/00 - Unit 05 - Minority rights, remedies and constitutional directives|Unit 5 — Minority rights, remedies and constitutional directives]]
 
-**Brain Branches:** [[08-Brain-Branches/Syllabus-From-Uploaded-PDF/Constitutional-Law-I/Unit-05.canvas|Visual unit map]]
+**Brain Branches:** [[08-Brain-Branches/Notes-Maps/Constitutional-Law-I/Unit-05.canvas|Visual unit map]]
 
 **Books:** [[01-Semester-1/Constitutional-Law-I/00 - Books and Reading|Reading list]]

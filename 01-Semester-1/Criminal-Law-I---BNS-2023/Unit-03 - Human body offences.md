@@ -12,6 +12,6 @@ tags: [kslu, legacy-link]
 
 **Open current unit:** [[01-Semester-1/Criminal-Law-I---BNS-2023/Units/Unit-03/00 - Unit 03 - Offences affecting life and human body|Unit 3 — Offences affecting life and human body]]
 
-**Brain Branches:** [[08-Brain-Branches/Syllabus-From-Uploaded-PDF/Criminal-Law-I---BNS-2023/Unit-03.canvas|Visual unit map]]
+**Brain Branches:** [[08-Brain-Branches/Notes-Maps/Criminal-Law-I---BNS-2023/Unit-03.canvas|Visual unit map]]
 
 **Books:** [[01-Semester-1/Criminal-Law-I---BNS-2023/00 - Books and Reading|Reading list]]

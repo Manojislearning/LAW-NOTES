@@ -18,5 +18,5 @@ tags: [law-notes, semester-1]
 ## Reference
 
 - [[01-Semester-1/Contract-I/00 - Books and Reading|Books]]
-- [[08-Brain-Branches/Syllabus-From-Uploaded-PDF/Contract-I/00 - Subject Branches|Brain Map]]
+- [[08-Brain-Branches/Notes-Maps/Contract-I/00 - Subject Branches|Brain Map]]
 - [[01-Semester-1/00 - Semester I Notes|Semester I]]

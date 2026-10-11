@@ -12,6 +12,6 @@ tags: [kslu, legacy-link]
 
 **Open current unit:** [[01-Semester-1/Contract-I/Units/Unit-03/00 - Unit 03 - Performance and discharge of contracts|Unit 3 — Performance and discharge of contracts]]
 
-**Brain Branches:** [[08-Brain-Branches/Syllabus-From-Uploaded-PDF/Contract-I/Unit-03.canvas|Visual unit map]]
+**Brain Branches:** [[08-Brain-Branches/Notes-Maps/Contract-I/Unit-03.canvas|Visual unit map]]
 
 **Books:** [[01-Semester-1/Contract-I/00 - Books and Reading|Reading list]]

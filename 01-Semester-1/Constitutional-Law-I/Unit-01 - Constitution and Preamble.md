@@ -12,6 +12,6 @@ tags: [kslu, legacy-link]
 
 **Open current unit:** [[01-Semester-1/Constitutional-Law-I/Units/Unit-01/00 - Unit 01 - Constitution, Preamble and citizenship|Unit 1 — Constitution, Preamble and citizenship]]
 
-**Brain Branches:** [[08-Brain-Branches/Syllabus-From-Uploaded-PDF/Constitutional-Law-I/Unit-01.canvas|Visual unit map]]
+**Brain Branches:** [[08-Brain-Branches/Notes-Maps/Constitutional-Law-I/Unit-01.canvas|Visual unit map]]
 
 **Books:** [[01-Semester-1/Constitutional-Law-I/00 - Books and Reading|Reading list]]

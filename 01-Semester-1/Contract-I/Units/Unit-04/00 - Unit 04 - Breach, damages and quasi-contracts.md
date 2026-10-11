@@ -20,4 +20,4 @@ tags: [law-notes, units]
 
 - [[01-Semester-1/Contract-I/00 - Contract I|Contract I]]
 - [[01-Semester-1/Contract-I/00 - Books and Reading|Books]]
-- [[08-Brain-Branches/Syllabus-From-Uploaded-PDF/Contract-I/Unit-04|Brain Map]]
+- [[08-Brain-Branches/Notes-Maps/Contract-I/Unit-04|Brain Map]]

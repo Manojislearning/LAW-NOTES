@@ -24,4 +24,4 @@ tags: [law-notes, units]
 
 - [[01-Semester-1/Constitutional-Law-I/00 - Constitutional Law I|Constitutional Law I]]
 - [[01-Semester-1/Constitutional-Law-I/00 - Books and Reading|Books]]
-- [[08-Brain-Branches/Syllabus-From-Uploaded-PDF/Constitutional-Law-I/Unit-05|Brain Map]]
+- [[08-Brain-Branches/Notes-Maps/Constitutional-Law-I/Unit-05|Brain Map]]

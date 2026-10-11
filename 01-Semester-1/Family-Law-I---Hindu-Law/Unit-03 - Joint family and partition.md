@@ -12,6 +12,6 @@ tags: [kslu, legacy-link]
 
 **Open current unit:** [[01-Semester-1/Family-Law-I---Hindu-Law/Units/Unit-03/00 - Unit 03 - Hindu joint family, property and partition|Unit 3 — Hindu joint family, property and partition]]
 
-**Brain Branches:** [[08-Brain-Branches/Syllabus-From-Uploaded-PDF/Family-Law-I---Hindu-Law/Unit-03.canvas|Visual unit map]]
+**Brain Branches:** [[08-Brain-Branches/Notes-Maps/Family-Law-I---Hindu-Law/Unit-03.canvas|Visual unit map]]
 
 **Books:** [[01-Semester-1/Family-Law-I---Hindu-Law/00 - Books and Reading|Reading list]]
