@@ -12,7 +12,7 @@ tags: [kslu, llb-year-1, brain-branches]
 > [!warning] Current-law caution
 > Citizenship law depends on the date of birth and statutory amendments, rules and notifications. This outline is **not** a statement of all current eligibility conditions. Verify directly against authoritative texts before exam use.
 
-**Unit:** [[Unit-01 - Constitution and Preamble]] · **Map:** [[08-Brain-Branches/Constitutional-Law-I/Unit-01 - Constitution and Preamble|Open Unit 1 Brain Branches]]
+**Unit:** [[Unit-01 - Constitution and Preamble]] · **Map:** [[08-Brain-Branches/Constitutional-Law-I/Unit-01 - Constitution and Preamble.canvas|Open Unit 1 Brain Branches]]
 
 ## Constitutional Framework
 
