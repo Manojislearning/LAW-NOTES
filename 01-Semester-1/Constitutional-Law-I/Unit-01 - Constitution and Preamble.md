@@ -17,7 +17,7 @@ tags:
 
 ## Visual Brain Branches
 
-**[[08-Brain-Branches/Constitutional-Law-I/Unit-01 - Constitution and Preamble|Open Unit 1 Brain Branches]]** — topic-by-topic visual hierarchy. Open any topic or sub-branch card to read the relevant Obsidian note/section.
+**[[08-Brain-Branches/Constitutional-Law-I/Unit-01 - Constitution and Preamble.canvas|Open Unit 1 Brain Branches]]** — topic-by-topic visual hierarchy. Open any topic or sub-branch card to read the relevant Obsidian note/section.
 
 - [[08-Brain-Branches/Constitutional-Law-I/Unit-01 - Branch Outline|Text branch outline]] (searchable and linkable)
 - Each branch is a study structure; legal answers marked `unverified` must be checked before examination use.
