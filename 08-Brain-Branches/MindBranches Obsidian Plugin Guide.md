@@ -1,29 +1,48 @@
-# MindBranches for Obsidian — LAW-NOTES
+# MindBranches in Obsidian — Desktop and Phone
 
-This vault includes a **local Obsidian plugin** called **Law Notes MindBranches**, inspired by [MindBranches](https://github.com/Teamonics/mindbranches).
+**Law Notes MindBranches v1.1** is a vault-local Obsidian plugin. It displays colored, foldable topic branches directly from the existing KSLU law-study Markdown notes. **It is not a plugin from the public Obsidian directory**, so searching the online plugin browser for its name will not find it.
 
-It reads your existing KSLU LL.B. Markdown notes directly. It does **not** replace or duplicate the notes, change your syllabus folders, or overwrite the existing Obsidian Canvas maps.
+## Desktop — make the Map option appear
 
-## Enable on your computer
+1. Close Obsidian.
+2. Update the local `LAW-NOTES` Git repository. In GitHub Desktop choose **Fetch origin → Pull origin**, or open a terminal in `LAW-NOTES` and run:
+   ```powershell
+   git pull --ff-only origin main
+   ```
+3. Confirm these files are present in the **same vault you opened in Obsidian**:
+   - `.obsidian/plugins/law-mindbranches/manifest.json`
+   - `.obsidian/plugins/law-mindbranches/main.js`
+   - `.obsidian/plugins/law-mindbranches/styles.css`
+4. Start Obsidian. In **Settings → Community plugins**, allow community plugins if prompted. Under installed plugins, enable **Law Notes MindBranches**. The GitHub vault has a `.obsidian/community-plugins.json` entry, but your local settings or restricted mode may still require manual enabling.
+5. Open a unit note. Press **Ctrl+P**, type **MindBranches**, and select **Open unit MindBranches**. There is also a branch icon in the desktop left ribbon, and **Open MindBranches** in the file's right-click menu.
 
-1. Get the current `main` branch into the local `LAW-NOTES` vault folder. With GitHub Desktop: **Fetch origin → Pull origin**. With PowerShell inside that folder: `git pull --ff-only origin main`.
-2. Open that **LAW-NOTES** folder as a vault in **Obsidian**.
-3. Go to **Settings → Community plugins**. If Restricted Mode is enabled, turn it off. Then enable **Law Notes MindBranches** from the installed plugins.
-4. If the plugin is not shown, fully restart Obsidian. Confirm these three files exist: `.obsidian/plugins/law-mindbranches/manifest.json`, `main.js`, and `styles.css`.
-5. Open one of your Semester I unit notes and click the **branch** icon in the Obsidian left ribbon. Alternatively press **Ctrl+P** and run **Open unit MindBranches**.
+If **Git pull** says the untracked file `.obsidian/community-plugins.json` would be overwritten, **do not delete your original settings**. Back it up and merge `"law-mindbranches"` into the existing enabled-plugin ID list, or enable the plugin manually in Obsidian after a selective update.
 
-## Study the notes
+## Phone — install the same plugin files locally
 
-- **This note** converts Markdown headings and indented numbered/bulleted lists into branches. Wikilinks stay connected to their corresponding note files.
-- **Unit** displays each topic file in that unit, with expandable content headings inside each topic.
-- **Subject** displays the five syllabus units and their topics.
-- **Semester** displays all available subjects, units, and topics for the current semester.
-- Click a **colored circle** to fold or unfold. Click the **title of a linked note** to open the original editable Markdown note in a split pane.
-- Drag empty space to move the map; hold **Ctrl + mouse wheel** to zoom; choose **Fit** to reframe.
-- The map uses **20 px text** by default. Choose 16, 24, or 28 px from the text-size dropdown. Long labels remain **on one line** unless you select **Wrap text**.
+1. Make sure your phone opens a local copy of the **same LAW-NOTES vault**, not just a browser view of GitHub. A GitHub push or PC pull **does not automatically update the vault stored on your phone**.
+2. Synchronize/copy the entire `.obsidian/plugins/law-mindbranches/` folder and the Markdown notes to your phone. If you use Obsidian Sync, configure it to synchronize **installed community plugins** and **active community plugin list** where supported, then let it finish. If you use another syncing system, ensure hidden folders like `.obsidian` are included.
+3. Fully close and reopen Obsidian mobile. Open **Settings → Community plugins**. Allow community plugins if required and enable **Law Notes MindBranches**. Do not search the public community directory; it is installed from the vault's files.
+4. Open a note in `01-Semester-1`. Use the mobile command palette and search **MindBranches**, or **long-press a note in the file explorer** and choose **Open MindBranches**.
+5. On the map, use **+** and **−** to zoom (touchscreen-friendly), **Fit** to center, and tap a colored circle to expand/collapse. Tap a title to open its note in a mobile tab.
 
-## Notes and limits
+If the plugin **does not appear under Installed plugins** on mobile, the phone does not yet have the plugin's `manifest.json` and `main.js` inside its local vault, or community plugins are restricted. Fix the sync/copy step before troubleshooting the map.
 
-The Markdown note is the source of truth. Edit the Markdown, then click **Refresh**; the plugin also listens for changes within the vault. Folder, note and unit maps are generated locally and need no paid API, Ollama, or internet connection. This is an Obsidian-only feature, separate from the **Manoj Mind Map** app; it is not continuous two-way GitHub sync.
+## Available maps
 
-The Obsidian Canvas maps in `08-Brain-Branches` remain unchanged. This plugin was added as vault files, but its actual operation still needs to be checked in the Obsidian desktop app after enabling it.
+- **This note**: note headings and lists.
+- **Unit**: the syllabus unit's topic files and their content headings.
+- **Subject**: the subject's units and linked topic notes.
+- **Semester**: subject → unit → topic structure.
+
+The 16/20/24/28 px setting changes branch text size. Labels stay on one line by default, with an optional **Wrap text** control. Pan by dragging the blank canvas; on desktop, **Ctrl+wheel** zooms. All note editing remains in the original Markdown files.
+
+## Troubleshooting
+
+- **No menu or command at all**: Check the plugin is enabled in Settings → Community plugins, the vault directory is correct, and restart Obsidian.
+- **Empty map**: Open a note inside a Semester I unit folder first. Use **This note** for an individual note outside the syllabus folders.
+- **The phone shows notes but no plugin**: Your sync is copying Markdown but not the hidden `.obsidian/plugins` folder.
+- **Text looks very small**: Use **+** or select 24/28 px. Choose **Unit** rather than **Semester** for a smaller, easier-to-read map.
+- **Plugin still fails to load**: Temporarily disable it and use the standard `.canvas` maps in `08-Brain-Branches/Notes-Maps`. This custom plugin has passed syntax and simulated opening/navigation tests, but not a real Obsidian desktop/phone runtime test.
+
+The original Canvas maps and all existing unit notes remain unchanged. The map does not itself synchronize files between devices and does not require a paid API.
