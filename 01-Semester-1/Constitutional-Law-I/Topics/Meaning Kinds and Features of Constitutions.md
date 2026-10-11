@@ -12,7 +12,7 @@ tags: [kslu, llb-year-1, brain-branches]
 > [!warning] Study status
 > This is an exam-preparation outline, **not a verified final answer**. Expand from prescribed texts and verify propositions and examples before examination use.
 
-**Unit:** [[Unit-01 - Constitution and Preamble]] · **Map:** [[08-Brain-Branches/Constitutional-Law-I/Unit-01 - Constitution and Preamble|Open Unit 1 Brain Branches]]
+**Unit:** [[Unit-01 - Constitution and Preamble]] · **Map:** [[08-Brain-Branches/Constitutional-Law-I/Unit-01 - Constitution and Preamble.canvas|Open Unit 1 Brain Branches]]
 
 ## Meaning of a Constitution
 
