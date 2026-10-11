@@ -1,46 +1,44 @@
 ---
-type: syllabus-topic
-subject: "Constitutional Law – I"
-unit: 1
+type: study-note
 semester: 1
-status: syllabus-heading-only
-verification: requires-primary-law-and-book-check
-source_page: 1
-source_document: "KSLU LL.B Syllabus Updated one(1).pdf"
-tags: [kslu, semester-1, unit-topic, brain-branches]
+unit: 1
+subject: Constitutional Law I
+title: "Types of Constitutions"
+summary: "Three comparisons to remember"
+reading_minutes: 3
+status: study-explanation
+tags: [kslu, llb, constitutional-law, unit-1, short-notes]
 ---
+# Types of Constitutions
+*Three comparisons to remember*
+## Quick idea
+Constitutions are often compared by **form, amendment procedure and division of governmental power**. These are study classifications, not absolute divisions.
 
-# Kinds of Constitution
+## Understand
+**Written / uncodified**
+- Written: Mainly set out in a formal constitutional document, as in India.
+- Uncodified: Drawn from several legal and conventional sources, as in the United Kingdom.
 
-**Part of:** [[01-Semester-1/Constitutional-Law-I/Units/Unit-01/00 - Unit 01 - Constitution, Preamble and citizenship|Unit 1 — Constitution, Preamble and citizenship]]  
-**Course:** [[01-Semester-1/Constitutional-Law-I/00 - Constitutional Law I|Constitutional Law – I]]  
-**Books:** [[01-Semester-1/Constitutional-Law-I/00 - Books and Reading|Prescribed and reference books]]  
-**Visual map:** [[08-Brain-Branches/Syllabus-From-Uploaded-PDF/Constitutional-Law-I/Unit-01.canvas|Unit 1 branches]]  
+**Rigid / flexible**
+- Rigid: Constitutional change requires special procedures.
+- Flexible: Some changes use simpler legislative procedures.
+- India includes different amendment routes. **Article 368** governs important forms of amendment.
 
-## Syllabus heading
+**Federal / unitary**
+- Federal: A constitution allocates powers between central and regional governments.
+- Unitary: Authority is concentrated more strongly at the centre.
+- India combines a federal allocation of powers with significant Union powers.
 
-- Kinds of Constitution
+## Write in the exam
+Explain the three pairs, give a brief example and finish with India's position.
 
-## Study note
+## Check yourself
+**Q:** Is India's Constitution wholly rigid?
 
-> [!important] Syllabus-only scaffold
-> The uploaded document names this topic but does **not** provide a textbook explanation, statutory analysis or judicial holdings. Add researched content below; do not treat this page as an exam-ready answer.
-
-### Exam-answer preparation
-
-- [ ] Meaning, definition and key rule (verify against the applicable statute)
-- [ ] Essential elements, conditions or legal tests
-- [ ] Exceptions, limitations or contrasting doctrines
-- [ ] Relevant provisions with current numbering checked
-- [ ] Leading decisions with court, year and ratio verified
-- [ ] Short answer, 10-mark answer and 15-mark answer
-
-
-## My verified notes
-
-_Add referenced content here._
-
-## Authorities and page references
-
-- **Primary source:** _to be verified_
-- **Prescribed text and page:** _to be filled_
+**A:** No. Different constitutional changes follow different procedures.
+## Sources
+- Uploaded KSLU syllabus, Semester I, Constitutional Law I, Unit I (p. 1).
+- [Official Constitution of India](https://www.legislative.gov.in/constitution-of-india/).
+## Next note
+Continue to [[01-Semester-1/Constitutional-Law-I/Units/Unit-01/03 - Constitutionalism|Next topic]] →
+Back to [[01-Semester-1/Constitutional-Law-I/Units/Unit-01/00 - Unit 01 - Constitution, Preamble and citizenship|Unit 1 Home]].
